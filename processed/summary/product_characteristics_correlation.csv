@@ -1,0 +1,7 @@
+﻿,weighted_rating,log_opinions,log_standardized_price,ingredients_count,active_count,active_position_score
+weighted_rating,1.00,0.29,-0.03,0.06,0.04,0.04
+log_opinions,0.29,1.00,-0.25,-0.09,-0.10,-0.06
+log_standardized_price,-0.03,-0.25,1.00,0.25,0.26,0.25
+ingredients_count,0.06,-0.09,0.25,1.00,0.90,0.79
+active_count,0.04,-0.10,0.26,0.90,1.00,0.96
+active_position_score,0.04,-0.06,0.25,0.79,0.96,1.00

@@ -1,0 +1,151 @@
+﻿annotation_id,sample_type,sampling_stratum,review_id,id,category,review_rating,oof_fold,fragment_index,aspect_text,candidate_aspect,model_sentiment_label,sentiment_method,matched_terms
+R2001,candidate_aspect,standard_candidate,10654,408268,Pielęgnacja twarzy - Kremy do twarzy,5,1,1,Konsystencja kremu jest miękka i łatwa w rozprowadzeniu,texture_consistency,positive,ordinal_model,konsystencja
+R2002,candidate_aspect,standard_candidate,7573,275099,Pielęgnacja twarzy - Kremy do twarzy,4,3,1,"Nie zatyka porów, koi moją cerę",pore_clogging,positive,pore_clogging_negation_rule,zatyka
+R2003,candidate_aspect,standard_candidate,5813,2113653,Pielęgnacja twarzy - Kremy do twarzy,5,5,3,"Delikatny, przyjemny zapach, który szybko znika",scent,positive,ordinal_model,zapach
+R2004,candidate_aspect,hard_case,5800,2113641,Pielęgnacja twarzy - Kremy do twarzy,5,1,2,Nie spływa i nie pozostawia uczucia lepkości,texture_consistency,negative,explicit_texture_consistency_negative_rule,lepkości
+R2005,candidate_aspect,standard_candidate,7533,269279,Pielęgnacja twarzy - Kremy do twarzy,5,1,2,"Krem w sama raz dla mnie - lekki, nie zostawia tłustej warstwy",texture_consistency,positive,ordinal_model,tłustej
+R2006,candidate_aspect,standard_candidate,9662,382809,Oczyszczanie i demakijaż twarzy - Oleje i masełka do demakijażu,5,5,1,"zmywa makijaż nawet bardzo trwały, przyjemny dla skóry, oczy nie szczypią",cleansing_makeup_removal,positive,ordinal_model,makijaż; zmywa
+R2007,candidate_aspect,standard_candidate,8994,366264,"Pielęgnacja twarzy - Serum, boostery i esencje",5,3,1,Fajny dobrze się rozprowadza,application,positive,ordinal_model,rozprowadza
+R2008,candidate_aspect,standard_candidate,3108,2092339,Pielęgnacja twarzy - Kremy do twarzy,5,4,1,"Masełko jest rewelacyjne, szybko się wchłania i nie zostawia tłustych warstw, a nawilża i natłuszcza",absorption_finish,positive,explicit_absorption_finish_positive_rule,warstw; wchłania
+R2009,candidate_aspect,standard_candidate,11408,419480,Pielęgnacja twarzy - Kremy do twarzy,5,1,3,Cena i skład wzbudzają zaufanie,formula_composition,positive,ordinal_model,skład
+R2010,candidate_aspect,hard_case,164,13162,Pielęgnacja twarzy - Kremy do twarzy,5,4,1,"Nie uczula, nie drażni, a efekty są zauważalne już po kilku dniach",skin_tolerance,positive,skin_tolerance_negation_rule,uczula
+R2011,candidate_aspect,hard_case,10892,410744,Pielęgnacja twarzy - Kremy pod oczy,4,2,3,"Ma bardzo delikatny zapach, nie podrażnia",skin_tolerance,positive,skin_tolerance_negation_rule,podrażnia
+R2012,candidate_aspect,hard_case,1090,203827,Tonizowanie twarzy - Toniki do twarzy,3,4,1,Strasznie wysusza skórę twarzy działa bardzo intensywnie ściągająco,hydration_nourishment,negative,explicit_hydration_nourishment_negative_rule,wysusza; ściągająco
+R2013,candidate_aspect,standard_candidate,4565,2103457,Oczyszczanie i demakijaż twarzy - Żele i pianki do mycia twarzy,5,2,1,"Jest mega super, fajnie nawilża i domywa",hydration_nourishment,positive,ordinal_model,nawilża
+R2014,no_aspect_control,no_detected_aspect,2911,2091799,"Pielęgnacja twarzy - Serum, boostery i esencje",5,,1,❤️❤️❤️,,,,
+R2015,candidate_aspect,hard_case,3548,2101986,Pielęgnacja twarzy - Kremy do twarzy,5,1,2,"Lekka formuła, nie zapycha porów",pore_clogging,positive,pore_clogging_negation_rule,zapycha
+R2016,candidate_aspect,standard_candidate,3111,2092340,Tonizowanie twarzy - Esencje i hydrolaty do twarzy,2,1,3,po 2 tygodniach nawet zaczął mnie zapychać odstawiłam,pore_clogging,negative,pore_clogging_affirmative_rule,zapychać
+R2017,candidate_aspect,standard_candidate,7349,251086,Pielęgnacja twarzy - Maseczki,5,2,2,Plastry świetnie oczyszczają zaskórniki,cleansing_makeup_removal,positive,ordinal_model,oczyszczają
+R2018,candidate_aspect,standard_candidate,7821,297435,Pielęgnacja twarzy - Kremy do twarzy,5,5,1,Cudownie kremowa formuła – łatwo się go używa,formula_composition,positive,ordinal_model,formuła
+R2019,candidate_aspect,standard_candidate,6733,2124772,Pielęgnacja twarzy - Kremy do twarzy,5,3,2,Ten dobrze nawilża skórę i jej nie zapycha,pore_clogging,positive,pore_clogging_negation_rule,zapycha
+R2020,candidate_aspect,standard_candidate,6036,2113758,Oczyszczanie i demakijaż twarzy - Oleje i masełka do demakijażu,5,2,1,Uwielbiam tą serię kosmetyków polecam bardzo wszystkim- jest rewelacyjna i pięknie pachnie,scent,positive,ordinal_model,pachnie
+R2021,candidate_aspect,hard_case,1045,2038054,Oczyszczanie i demakijaż twarzy - Płyny do demakijażu,5,2,1,Doskonale oczyszcza i nie podrażnia,skin_tolerance,positive,skin_tolerance_negation_rule,podrażnia
+R2022,no_aspect_control,no_detected_aspect,7063,228064,Oczyszczanie i demakijaż twarzy - Płyny do demakijażu,3,,2,postanowiłem wypróbować,,,,
+R2023,candidate_aspect,standard_candidate,5228,2110105,Pielęgnacja ust - Balsamy i pomadki do ust,5,3,1,"Fajna krem nawilżający do ust, daje troszkę dziwny posmak, bardziej preferowałabym go na noc jako taka maska do ust, usta po nim są miękkie i nie widać suchych skórek",effectiveness,positive,ordinal_model,nie widać
+R2024,candidate_aspect,standard_candidate,4776,2104478,Tonizowanie twarzy - Toniki do twarzy,5,5,1,Mgiełka nawilża i daje komfort świeżości w ciągu dnia.👍️,hydration_nourishment,positive,ordinal_model,nawilża
+R2025,no_aspect_control,no_detected_aspect,3089,2092330,Pielęgnacja twarzy - Kremy do twarzy,5,,3,Strzał w dziesiątkę – udany zakup,,,,
+R2026,candidate_aspect,standard_candidate,8720,354084,Pielęgnacja twarzy - Maseczki,5,1,1,Super odżywia i nawilża skórę nawet podrażnioną,skin_tolerance,positive,ordinal_model,podrażnioną
+R2027,candidate_aspect,standard_candidate,489,178242,Pielęgnacja twarzy - Kremy do twarzy,5,5,1,"Bardzo przyjemna formuła, idealny krem na co dzień",formula_composition,positive,ordinal_model,formuła
+R2028,candidate_aspect,standard_candidate,7118,233383,Pielęgnacja ust - Balsamy i pomadki do ust,2,5,1,Moje uta wysuszał,hydration_nourishment,positive,ordinal_model,wysuszał
+R2029,candidate_aspect,standard_candidate,5455,2112078,Pielęgnacja twarzy - Maseczki,5,1,1,Zauważyłam/łam kilka ciekawych składników aktywnych,formula_composition,positive,ordinal_model,składników
+R2030,candidate_aspect,standard_candidate,11493,420548,Oczyszczanie i demakijaż twarzy - Chusteczki do demakijażu,5,3,1,Polecam makijaż schodzi po użyciu husteczek,cleansing_makeup_removal,positive,ordinal_model,makijaż
+R2031,candidate_aspect,hard_case,7304,248424,Tonizowanie twarzy - Toniki do twarzy,2,4,1,"Niestety, nie zauważyłem, że tonik zawiera alkohol i to na jednym z pierwszych miejsc w składzie",formula_composition,negative,ordinal_model,alkohol; składzie
+R2032,candidate_aspect,standard_candidate,176,13165,Pielęgnacja twarzy - Kremy do twarzy,5,2,1,"Regeneruje, koi, daje mi 100% zadowolenia",skin_tolerance,positive,ordinal_model,koi
+R2033,candidate_aspect,standard_candidate,2466,2083937,Pielęgnacja ust - Balsamy i pomadki do ust,4,5,5,"Jedynie nie jest skuteczna tak, jakbym tego oczekiwała",effectiveness,positive,ordinal_model,skuteczna
+R2034,candidate_aspect,hard_case,2875,2091734,"Pielęgnacja twarzy - Serum, boostery i esencje",2,4,1,Bardzo wysusza skórę,hydration_nourishment,negative,explicit_hydration_nourishment_negative_rule,wysusza
+R2035,candidate_aspect,standard_candidate,6826,2125816,"Pielęgnacja twarzy - Serum, boostery i esencje",5,5,1,"Przyjemne serum, nie uczula, nie ściąga, na efekty jeszcze muszę poczekać",skin_tolerance,positive,skin_tolerance_negation_rule,uczula
+R2036,candidate_aspect,standard_candidate,4027,2103026,Pielęgnacja twarzy - Kremy do twarzy,5,5,1,Przyjemnie się nakłada na skórę,application,positive,ordinal_model,nakłada
+R2037,candidate_aspect,standard_candidate,9739,385729,Oczyszczanie i demakijaż twarzy - Peelingi do twarzy,5,4,1,to już kolejne opakowanie jestem zadowolona,packaging,positive,ordinal_model,opakowanie
+R2038,candidate_aspect,hard_case,1522,2076671,Pielęgnacja twarzy - Kremy do twarzy,5,2,2,"Poradził sobie z przebarwieniami , z którymi inne drogie produkty nie dawały sobie rady 💯",price_value,neutral,ordinal_model,drogie
+R2039,candidate_aspect,standard_candidate,3902,2102952,Pielęgnacja twarzy - Kosmetyki z SPF,4,2,1,Bardzo fajny spf o przyjemnym zapachu,scent,positive,ordinal_model,zapachu
+R2040,candidate_aspect,hard_case,9108,366670,Oczyszczanie i demakijaż twarzy - Chusteczki do demakijażu,1,5,2,"Chusteczki nie zmywają nawet zwykłego makijażu oczu ani twarzy, są baaardzo słabo nasączone substancją, która niby to służy do demakijażu.Szkoda kasy!",formula_composition,negative,ordinal_model,substancją
+R2041,candidate_aspect,standard_candidate,8529,344710,Pielęgnacja ust - Peelingi do ust,5,2,1,"Faktycznie: na początku czuć drobinki, które po chwili on się rozpuszczają",cleansing_makeup_removal,positive,ordinal_model,rozpuszczają
+R2042,candidate_aspect,standard_candidate,7369,254324,Pielęgnacja twarzy - Kremy do twarzy,5,2,1,"Świetna konsystencja, pozostawia skórę nawilżoną",texture_consistency,positive,ordinal_model,konsystencja
+R2043,candidate_aspect,standard_candidate,9700,383006,Pielęgnacja ust - Maseczki na usta,3,3,1,"Nie działa tak, jak napisano w opisie na opakowaniu produktu",packaging,neutral,ordinal_model,opakowaniu
+R2044,candidate_aspect,standard_candidate,4871,2104556,Pielęgnacja twarzy - Maseczki,5,4,1,"Bardzo fajną maska, można samemu dozować ilość",application,positive,ordinal_model,dozować
+R2045,candidate_aspect,standard_candidate,10005,390442,Pielęgnacja twarzy - Kremy do twarzy,5,1,1,"Krem jest bardzo wydajny, wystarczy niewielka ilość",efficiency,positive,ordinal_model,wydajny
+R2046,no_aspect_control,no_detected_aspect,498,178246,Pielęgnacja twarzy - Kremy do twarzy,5,,3,Na pewno do niego wrócę,,,,
+R2047,candidate_aspect,hard_case,9600,381393,Pielęgnacja twarzy - Kremy do twarzy,5,5,1,"Po nałożeniu skóra jest pełna blasku.👌 Nie zostawia tłustego filmu, skóra jest od razu gotowa na makijaż",absorption_finish,positive,explicit_absorption_finish_positive_rule,filmu
+R2048,candidate_aspect,standard_candidate,8340,331790,Pielęgnacja twarzy - Kremy do twarzy,5,5,2,"Zgrabne opakowanie, idealne do torebki czy na wyjazd",packaging,positive,ordinal_model,opakowanie
+R2049,candidate_aspect,standard_candidate,4908,2104568,Pielęgnacja twarzy - Maseczki,5,5,2,"nigdy nie.miałam żadnego uczulenia, podrażnienia itp",skin_tolerance,neutral,ordinal_model,podrażnienia
+R2050,no_aspect_control,no_detected_aspect,10762,409849,Pielęgnacja twarzy - Maseczki,5,,1,🔥👍️💯,,,,
+R2051,candidate_aspect,hard_case,10532,404488,Pielęgnacja twarzy - Kremy pod oczy,5,1,2,za tą cenę nie jest zły,price_value,neutral,ordinal_model,cenę
+R2052,candidate_aspect,standard_candidate,1716,2077399,Pielęgnacja twarzy - Kremy do twarzy,5,4,4,Odczuwalnie wygładza i zmiękcza skórę,effectiveness,positive,ordinal_model,wygładza
+R2053,candidate_aspect,standard_candidate,6044,2113759,Oczyszczanie i demakijaż twarzy - Żele i pianki do mycia twarzy,5,3,1,"Lubię, chociaż trochę szybko znika z opakowania, daje komfort skórze, dobrze domywa i pozostawia skórę miękką i świetlistą",packaging,positive,ordinal_model,opakowania
+R2054,candidate_aspect,standard_candidate,8775,357711,Tonizowanie twarzy - Toniki do twarzy,5,3,1,Zapach jest bardzo delikatny i przyjemny,scent,positive,ordinal_model,zapach
+R2055,candidate_aspect,standard_candidate,51,112680,Pielęgnacja ust - Balsamy i pomadki do ust,5,5,1,"mój ulubiony, gęsty, super odżywia i nawilża",texture_consistency,negative,explicit_texture_consistency_negative_rule,gęsty
+R2056,candidate_aspect,standard_candidate,827,2031085,Oczyszczanie i demakijaż twarzy - Żele i pianki do mycia twarzy,5,5,1,Jakość idzie w parze z ceną,price_value,positive,ordinal_model,ceną
+R2057,candidate_aspect,standard_candidate,6466,2121872,Tonizowanie twarzy - Toniki do twarzy,1,2,2,Wcześniej byłam zadowolona i zużyłam kilka opakowań,efficiency,positive,ordinal_model,zużyłam
+R2058,candidate_aspect,hard_case,9845,385746,Pielęgnacja twarzy - Kremy pod oczy,2,4,1,Krem słabo się rozprowadza i źle wchłania,application,negative,ordinal_model,rozprowadza
+R2059,candidate_aspect,standard_candidate,2364,2083006,"Pielęgnacja twarzy - Serum, boostery i esencje",4,5,1,Fajne nawilżające i kojące serum,hydration_nourishment,positive,ordinal_model,nawilżające
+R2060,candidate_aspect,standard_candidate,9609,381436,Pielęgnacja twarzy - Kremy do twarzy,5,5,1,Wcześniej używałam kilku kremów teraz wystarcza tylko ten,efficiency,positive,ordinal_model,wystarcza
+R2061,candidate_aspect,standard_candidate,5608,2113515,Pielęgnacja twarzy - Kremy pod oczy,5,2,1,"bardzo przyjemny, dobrze się wchłania",absorption_finish,positive,ordinal_model,wchłania
+R2062,candidate_aspect,standard_candidate,4179,2103201,"Pielęgnacja twarzy - Serum, boostery i esencje",5,4,1,"Łatwo się rozprowadza, szybko wchłania i nawilża",application,positive,ordinal_model,rozprowadza
+R2063,candidate_aspect,hard_case,8344,331790,Pielęgnacja twarzy - Kremy do twarzy,5,5,1,Dosyć gęsty,texture_consistency,negative,explicit_texture_consistency_negative_rule,gęsty
+R2064,candidate_aspect,standard_candidate,4653,2103906,Pielęgnacja twarzy - Kremy do twarzy,5,1,1,Wygodne opakowanie ułatwia codzienne stosowanie,packaging,positive,ordinal_model,opakowanie
+R2065,no_aspect_control,no_detected_aspect,5067,2104707,Pielęgnacja twarzy - Maseczki,3,,3,Nie kupię ponownie,,,,
+R2066,candidate_aspect,standard_candidate,10966,411646,Tonizowanie twarzy - Toniki do twarzy,5,1,1,"Dobry skład, można łączyć z różnymi kosmetykami",formula_composition,positive,ordinal_model,skład
+R2067,candidate_aspect,standard_candidate,8987,366263,Pielęgnacja twarzy - Kremy do twarzy,5,1,3,Nie zapycha porów co jest dla mnie ważne,pore_clogging,positive,pore_clogging_negation_rule,zapycha
+R2068,candidate_aspect,standard_candidate,7891,310621,Oczyszczanie i demakijaż twarzy - Chusteczki do demakijażu,4,5,1,Są ok za tą cenę,price_value,positive,ordinal_model,cenę
+R2069,candidate_aspect,hard_case,2224,2078779,Oczyszczanie i demakijaż twarzy - Płyny do demakijażu,3,1,2,Słabe opakowanie,packaging,negative,ordinal_model,opakowanie
+R2070,candidate_aspect,standard_candidate,752,2031030,Pielęgnacja twarzy - Kremy do twarzy,5,2,1,"Praktyczne opakowanie, które zapewnia higieniczne dozowanie",application,positive,ordinal_model,dozowanie
+R2071,candidate_aspect,standard_candidate,9835,385745,"Pielęgnacja twarzy - Serum, boostery i esencje",4,3,4,lekka konsystencja szybko się wchłaniająca,texture_consistency,positive,ordinal_model,konsystencja; lekka konsystencja
+R2072,candidate_aspect,hard_case,6216,2114808,Tonizowanie twarzy - Toniki do twarzy,3,1,1,W opakowaniu nie widać czy to tonik mgiełka do psikania czy nakładania na waciki,packaging,neutral,ordinal_model,opakowaniu
+R2073,candidate_aspect,standard_candidate,4435,2103333,Pielęgnacja twarzy - Kremy do twarzy,5,3,1,"Ładny zapach, rano buzia wyglada jak po 8 godzinach snu",scent,positive,ordinal_model,zapach
+R2074,candidate_aspect,standard_candidate,1151,2047002,Oczyszczanie i demakijaż twarzy - Oleje i masełka do demakijażu,5,5,5,Ponadto olejek jest wydajny i często można go dorwać w promocji 😉,efficiency,positive,ordinal_model,wydajny
+R2075,candidate_aspect,hard_case,3690,2102057,"Pielęgnacja twarzy - Serum, boostery i esencje",5,4,2,Nie pozostawia uczucia lepkości a skóra po nim jest gładziutka!,texture_consistency,negative,explicit_texture_consistency_negative_rule,lepkości
+R2076,candidate_aspect,standard_candidate,9007,366268,Pielęgnacja twarzy - Kremy do twarzy,5,3,1,Krem świetnie się rozprowadza i natychmiast wchłania,absorption_finish,positive,ordinal_model,wchłania
+R2077,candidate_aspect,hard_case,3450,2100596,Pielęgnacja ust - Balsamy i pomadki do ust,4,5,1,"Cudów nie robi, nie wysusza",hydration_nourishment,positive,explicit_hydration_nourishment_positive_rule,wysusza
+R2078,candidate_aspect,standard_candidate,740,2031027,Pielęgnacja twarzy - Kremy do twarzy,5,1,1,"świetny kremik dla delikatnej cery, odkąd go stosuje to nic mnie już nie zapycha, odpowiedni zarówno na dzień jak i noc",pore_clogging,positive,pore_clogging_negation_rule,zapycha
+R2079,no_aspect_control,no_detected_aspect,6946,218809,Pielęgnacja twarzy - Płatki pod oczy,3,,1,bardzo krótko oko wyglądało trochę lepiej,,,,
+R2080,candidate_aspect,standard_candidate,5898,2113735,Oczyszczanie i demakijaż twarzy - Żele i pianki do mycia twarzy,4,5,2,myślę że można znaleźć produkt podobnej jakości w niższej cenie,price_value,positive,ordinal_model,cenie
+R2081,candidate_aspect,hard_case,2666,2089957,Pielęgnacja twarzy - Maseczki,2,1,1,Nie widziałam spektakularnych efektów po użyciu 😏 w tej cenie można kupić lepsze maseczki,price_value,neutral,ordinal_model,cenie
+R2082,candidate_aspect,hard_case,6866,2129794,"Pielęgnacja twarzy - Serum, boostery i esencje",5,4,3,Jedynym minusem jest to że serum jest mało wydajne,efficiency,negative,explicit_efficiency_negative_rule,wydajne
+R2083,no_aspect_control,no_detected_aspect,1479,2076622,Pielęgnacja twarzy - Maseczki,4,,1,"Taki w miarę, cudów nie ma",,,,
+R2084,candidate_aspect,standard_candidate,7349,251086,Pielęgnacja twarzy - Maseczki,5,2,1,"Bardzo podoba mi się, że skład jest tak minimalistyczny",formula_composition,positive,ordinal_model,skład
+R2085,candidate_aspect,standard_candidate,1014,2038042,Oczyszczanie i demakijaż twarzy - Mleczka i emulsje do demakijażu,4,5,2,Póki co to co zauważyłam to nie wysusza AŻ TAK jak inne płyny,hydration_nourishment,positive,explicit_hydration_nourishment_positive_rule,wysusza
+R2086,candidate_aspect,standard_candidate,6601,2124066,Oczyszczanie i demakijaż twarzy - Żele i pianki do mycia twarzy,4,1,3,Raczej wydajny bo wystarczy użyć niewielką ilość,efficiency,positive,ordinal_model,wydajny
+R2087,candidate_aspect,standard_candidate,10989,413294,"Pielęgnacja twarzy - Serum, boostery i esencje",5,3,1,Genialny tani produkt,price_value,positive,ordinal_model,tani
+R2088,candidate_aspect,standard_candidate,7439,258640,Pielęgnacja twarzy - Kremy do twarzy,5,2,2,Zdecydowanie poprawił wygląd mojej skóry – jest bardziej promienna i napięta,effectiveness,positive,ordinal_model,poprawił
+R2089,candidate_aspect,standard_candidate,6138,2113786,"Pielęgnacja twarzy - Serum, boostery i esencje",5,1,1,Masażer jest bardzo dobrym pomysłem na aplikację serum,application,positive,ordinal_model,aplikację
+R2090,candidate_aspect,hard_case,4362,2103254,Pielęgnacja twarzy - Preparaty punktowe,4,3,1,"usuwanie ich nie wyrywa skóry z twarzy, nie wysychają na pieprz, oczyszczają",cleansing_makeup_removal,neutral,ordinal_model,oczyszczają
+R2091,no_aspect_control,no_detected_aspect,2322,2082420,Pielęgnacja ust - Serum i olejki do ust,3,,4,okazał się być bezbarwny,,,,
+R2092,candidate_aspect,standard_candidate,11230,418584,Tonizowanie twarzy - Toniki do twarzy,5,5,1,Łagodny dla skóry wrażliwej,skin_tolerance,positive,ordinal_model,wrażliwej
+R2093,candidate_aspect,hard_case,2946,2092010,"Pielęgnacja twarzy - Serum, boostery i esencje",5,5,2,chociaż tyle że ich tak nie widać po zastosowaniu tego produktu a poza tym bardzo ładny zapach i łatwość w aplikowaniu a dodatkowo serum bardzo wydajne.💯,efficiency,neutral,ordinal_model,wydajne
+R2094,candidate_aspect,hard_case,3312,2100332,"Pielęgnacja twarzy - Serum, boostery i esencje",3,5,1,"Serum ogólnie okej, mi nie zrobił jakiejś wielkiej różnicy na skórze, bardziej sprawdza mi się to z isany z niacynamidem 10%",formula_composition,neutral,ordinal_model,niacynamidem
+R2095,candidate_aspect,hard_case,3003,2092311,Pielęgnacja twarzy - Kremy do twarzy,2,2,4,niestety nie nadaje sie pod makijaż 🫣,cleansing_makeup_removal,negative,ordinal_model,makijaż
+R2096,candidate_aspect,standard_candidate,1868,2077724,Pielęgnacja twarzy - Preparaty punktowe,2,3,1,"nie widzę żadnej różnicy, przynajmiej był tani",price_value,neutral,ordinal_model,tani
+R2097,candidate_aspect,standard_candidate,9123,369829,Tonizowanie twarzy - Toniki do twarzy,4,2,3,"Wydaje mi się, że cera jest rozjaśniona i wygładzona",effectiveness,positive,ordinal_model,wygładzona
+R2098,candidate_aspect,standard_candidate,7735,288095,Pielęgnacja twarzy - Kremy do twarzy,5,2,1,"Lekka formuła, nie zapycha porów",formula_composition,positive,ordinal_model,formuła
+R2099,candidate_aspect,standard_candidate,8354,331792,Pielęgnacja twarzy - Kremy pod oczy,5,4,1,"Lekki,bardzo wydajny krem pod oczy.Polecam👍️",efficiency,positive,ordinal_model,wydajny
+R2100,candidate_aspect,hard_case,7678,281442,Pielęgnacja twarzy - Kremy do twarzy,5,3,3,"Zapach jest neutralny, nie wyczuwalny po nałożeniu",scent,neutral,ordinal_model,zapach
+R2101,candidate_aspect,standard_candidate,2950,2092010,"Pielęgnacja twarzy - Serum, boostery i esencje",5,5,1,"Wysoka skuteczność, dobra wydajnosc",efficiency,positive,ordinal_model,wydajnosc
+R2102,no_aspect_control,no_detected_aspect,11227,418584,Tonizowanie twarzy - Toniki do twarzy,5,,3,nie powalające,,,,
+R2103,candidate_aspect,standard_candidate,4853,2104554,Tonizowanie twarzy - Toniki do twarzy,5,4,2,Juz drugie opakowanie stosuje!,packaging,positive,ordinal_model,opakowanie
+R2104,candidate_aspect,hard_case,4221,2103207,Pielęgnacja twarzy - Kremy do twarzy,4,3,2,"Krem w sama raz dla mnie - lekki, nie zostawia tłustej warstwy",absorption_finish,positive,explicit_absorption_finish_positive_rule,warstwy
+R2105,candidate_aspect,standard_candidate,229,14430,Tonizowanie twarzy - Toniki do twarzy,5,1,1,Ładnie oczyszcza pory,cleansing_makeup_removal,positive,ordinal_model,oczyszcza
+R2106,candidate_aspect,standard_candidate,10982,411651,Pielęgnacja twarzy - Kremy do twarzy,5,1,1,"Cera wygląda świetnie, nawet bez makijażu",cleansing_makeup_removal,positive,ordinal_model,makijażu
+R2107,candidate_aspect,hard_case,2078,2078502,Oczyszczanie i demakijaż twarzy - Oleje i masełka do demakijażu,5,3,1,"Rewelacyjny, dobrze rozpuszcza makijaż, nie zapycha i nie uczula",pore_clogging,positive,pore_clogging_negation_rule,zapycha
+R2108,candidate_aspect,standard_candidate,3083,2092329,Pielęgnacja twarzy - Kremy do twarzy,5,3,1,"Lekka formuła, nie zapycha porów",texture_consistency,positive,ordinal_model,lekka formuła
+R2109,candidate_aspect,standard_candidate,11511,44783,Oczyszczanie i demakijaż twarzy - Płyny do demakijażu,5,2,4,"Używam wodoodporny tuszu i grubo go nakładam ,płyn świetnie sobie radzi ze zmywaniem tuszu",cleansing_makeup_removal,positive,ordinal_model,zmywaniem
+R2110,candidate_aspect,standard_candidate,1607,2077267,Oczyszczanie i demakijaż twarzy - Żele i pianki do mycia twarzy,1,4,1,"Uwaga dla cer wrażliwych - szczypie w oczy - niestety muszę zużyć do ciała, a bardzo lubię serię LAAB",efficiency,positive,ordinal_model,zużyć
+R2111,candidate_aspect,hard_case,9188,370575,Pielęgnacja twarzy - Kremy do twarzy,5,4,1,Znakomicie sprawdza się jako część wieczornej rutyny,effectiveness,positive,explicit_effectiveness_positive_rule,sprawdza się
+R2112,candidate_aspect,standard_candidate,1794,2077570,Pielęgnacja twarzy - Kremy do twarzy,3,1,1,Trochę piecze skóra po użyciu,skin_tolerance,negative,explicit_skin_tolerance_negative_rule,piecze
+R2113,no_aspect_control,no_detected_aspect,242,144421,Pielęgnacja ust - Balsamy i pomadki do ust,5,,1,Carmex od zawsze był 10 out of 10 jeśli chodzi o balsam do ust,,,,
+R2114,candidate_aspect,hard_case,8136,322610,Pielęgnacja twarzy - Kremy do twarzy,5,1,1,❤️Wygodne opakowanie ułatwia codzienne stosowanie,application,positive,application_facilitation_rule,opakowanie ułatwia; ułatwia codzienne stosowanie
+R2115,no_aspect_control,no_detected_aspect,6716,2124767,"Pielęgnacja twarzy - Serum, boostery i esencje",2,,2,Wysypka na całej twarzy,,,,
+R2116,candidate_aspect,hard_case,10998,413473,Oczyszczanie i demakijaż twarzy - Oleje i masełka do demakijażu,2,4,1,"Zbyt mało skondensowany, potrzebna duża ilość żeby zmyć makijaż",cleansing_makeup_removal,neutral,ordinal_model,makijaż
+R2117,candidate_aspect,hard_case,2775,2091575,Pielęgnacja twarzy - Kremy do twarzy,5,1,2,"Nie wysusza, nie zapycha, ładnie pachnie:) Nie daje efektu WOW",scent,neutral,ordinal_model,pachnie
+R2118,no_aspect_control,no_detected_aspect,4784,2104478,Tonizowanie twarzy - Toniki do twarzy,5,,1,Bardzo fajna mgiełka,,,,
+R2119,candidate_aspect,hard_case,2779,2091673,Tonizowanie twarzy - Toniki do twarzy,5,3,3,"dla cery normalnej/mieszanej sprawdza się świetnie – nie mam prawie zaskórników, koloryt jest równomierny",effectiveness,positive,explicit_effectiveness_positive_rule,sprawdza się
+R2120,candidate_aspect,hard_case,7373,254324,Pielęgnacja twarzy - Kremy do twarzy,4,2,1,"Lekka formuła, nie zapycha porów",pore_clogging,positive,pore_clogging_negation_rule,zapycha
+R2121,candidate_aspect,hard_case,5219,2110104,Pielęgnacja ust - Balsamy i pomadki do ust,1,2,2,Nie spełnia żadnych deklaracji z opakowania,packaging,neutral,ordinal_model,opakowania
+R2122,candidate_aspect,hard_case,3777,2102076,Pielęgnacja twarzy - Kremy do twarzy,5,5,1,Wygodne opakowanie ułatwia codzienne stosowanie,application,positive,application_facilitation_rule,opakowanie ułatwia; ułatwia codzienne stosowanie
+R2123,candidate_aspect,standard_candidate,10663,408269,Oczyszczanie i demakijaż twarzy - Żele i pianki do mycia twarzy,5,2,1,"Doskonały do ceru tłustej z rozszerzonymi porami, jak moja",texture_consistency,positive,ordinal_model,tłustej
+R2124,candidate_aspect,standard_candidate,5116,2105968,Pielęgnacja twarzy - Kosmetyki z SPF,5,2,2,"Nie bieli, skóra się po nim nie świeci",absorption_finish,positive,explicit_absorption_finish_positive_rule,bieli
+R2125,candidate_aspect,standard_candidate,495,178246,Pielęgnacja twarzy - Kremy do twarzy,5,1,1,"Krem w sama raz dla mnie - lekki, nie zostawia tłustej warstwy",absorption_finish,positive,explicit_absorption_finish_positive_rule,warstwy
+R2126,candidate_aspect,standard_candidate,1956,2078291,Pielęgnacja twarzy - Kremy do twarzy,5,1,1,"Najlepszy, moja cera jest teraz promienna i nawilżona",hydration_nourishment,positive,ordinal_model,nawilżona
+R2127,no_aspect_control,no_detected_aspect,8234,325592,Pielęgnacja twarzy - Kremy do twarzy,2,,2,Ludzi powaliło do reszty,,,,
+R2128,candidate_aspect,standard_candidate,6462,2121872,Tonizowanie twarzy - Toniki do twarzy,5,2,1,Fajny efekt na skórze twarzy,effectiveness,positive,ordinal_model,efekt
+R2129,no_aspect_control,no_detected_aspect,1226,2067732,Oczyszczanie i demakijaż twarzy - Peelingi do twarzy,5,,1,"Delikatny, pomimo iż czuć w nim drobinki peelingujące",,,,
+R2130,candidate_aspect,standard_candidate,1562,2077051,Oczyszczanie i demakijaż twarzy - Peelingi do twarzy,5,4,1,"Dobry skład, dobra cena, ładnie pachnie",scent,positive,ordinal_model,pachnie
+R2131,candidate_aspect,standard_candidate,2529,2086809,Pielęgnacja twarzy - Maseczki,4,5,1,"Dobry produkt, tani",price_value,positive,ordinal_model,tani
+R2132,candidate_aspect,standard_candidate,7682,281442,Pielęgnacja twarzy - Kremy do twarzy,5,3,1,"Nie zatyka porów, koi moją cerę",pore_clogging,positive,pore_clogging_negation_rule,zatyka
+R2133,candidate_aspect,standard_candidate,2191,2078553,Pielęgnacja twarzy - Kremy do twarzy,5,2,2,Daje super efekt nawilżenia,hydration_nourishment,positive,ordinal_model,nawilżenia
+R2134,no_aspect_control,no_detected_aspect,2458,2083937,Pielęgnacja ust - Balsamy i pomadki do ust,1,,1,"Nadaje delikatny, naturalny, różowy kolor",,,,
+R2135,candidate_aspect,standard_candidate,6968,218969,Pielęgnacja twarzy - Kremy do twarzy,5,5,1,"Nie zatyka porów, koi moją cerę",pore_clogging,positive,pore_clogging_negation_rule,zatyka
+R2136,candidate_aspect,standard_candidate,1529,2076994,Pielęgnacja twarzy - Kremy do twarzy,4,2,2,"Szybko się wchłania, pozostawia świetlistość",absorption_finish,positive,ordinal_model,wchłania
+R2137,candidate_aspect,hard_case,9237,3735,Pielęgnacja ust - Balsamy i pomadki do ust,5,4,3,nie ma smaku ani mocniejszego zapachu,scent,neutral,ordinal_model,zapachu
+R2138,no_aspect_control,no_detected_aspect,3518,2101981,Pielęgnacja twarzy - Kosmetyki z SPF,5,,1,Kupiłam w ciemno (wczesniej uzywałam innego kremu tej firmy) i jestem zadowolona,,,,
+R2139,no_aspect_control,no_detected_aspect,3551,2102016,"Pielęgnacja twarzy - Serum, boostery i esencje",1,,3,Starczyło na 2aplikacje,,,,
+R2140,no_aspect_control,no_detected_aspect,2210,2078778,Oczyszczanie i demakijaż twarzy - Płyny do demakijażu,1,,1,Straszny płyn,,,,
+R2141,candidate_aspect,standard_candidate,6175,2114205,Pielęgnacja twarzy - Kremy do twarzy,5,3,1,Wygodne opakowanie i szybka aplikacja,packaging,positive,ordinal_model,opakowanie
+R2142,candidate_aspect,hard_case,410,171104,Pielęgnacja ust - Balsamy i pomadki do ust,5,3,3,żadne nie spełniały moich oczekiwań,effectiveness,negative,explicit_effectiveness_negative_rule,nie spełniały
+R2143,candidate_aspect,standard_candidate,7763,288895,Pielęgnacja ust - Balsamy i pomadki do ust,5,5,2,Super cena,price_value,positive,ordinal_model,cena
+R2144,candidate_aspect,standard_candidate,8658,349580,Oczyszczanie i demakijaż twarzy - Oleje i masełka do demakijażu,5,5,1,"mój ulubiony olejek do demakjażu- usuwa wodoodporne kosmetyki, nie uczula, nie szczypie👍️",skin_tolerance,positive,skin_tolerance_negation_rule,szczypie; uczula
+R2145,candidate_aspect,standard_candidate,5158,2108855,Pielęgnacja twarzy - Kremy do twarzy,5,3,1,"Przyjemna konsystencja, szybko się wchłania",absorption_finish,positive,ordinal_model,wchłania
+R2146,candidate_aspect,standard_candidate,3435,2100595,Pielęgnacja ust - Balsamy i pomadki do ust,5,1,3,Aplikacja jest szybka i bezproblemowa,application,positive,ordinal_model,aplikacja; bezproblemowa
+R2147,candidate_aspect,standard_candidate,4966,2104594,Oczyszczanie i demakijaż twarzy - Żele i pianki do mycia twarzy,5,4,2,"Działa delikatnie, nie drażniąco",effectiveness,positive,ordinal_model,działa
+R2148,candidate_aspect,standard_candidate,2048,2078468,Pielęgnacja twarzy - Kremy do twarzy,5,1,2,"Delikatny, przyjemny zapach",scent,positive,ordinal_model,zapach
+R2149,candidate_aspect,hard_case,11380,419475,Pielęgnacja twarzy - Kremy pod oczy,1,4,1,"Niestety ten krem oprócz tego, że sie mocno roluje i nie nadaje pod makijaz to nie robi zupełnie nic",absorption_finish,negative,explicit_absorption_finish_negative_rule,roluje
+R2150,no_aspect_control,no_detected_aspect,4799,2104549,Pielęgnacja twarzy - Maseczki,3,,1,just ok,,,,

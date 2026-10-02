@@ -1,0 +1,8 @@
+﻿metric,value
+development_rows_before_purge,350
+development_rows_overlapping_test_product,36
+development_rows_overlapping_test_text,23
+development_rows_after_purge_and_no_aspect_filter,269
+development_products_after_purge,236
+test_rows_with_manual_aspect,145
+test_products,135

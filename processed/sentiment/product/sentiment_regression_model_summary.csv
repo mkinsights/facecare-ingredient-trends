@@ -1,0 +1,7 @@
+﻿model,products_count,brands_count,category2_count,predictors_count,design_columns,design_rank,condition_number,maximum_predictor_vif,primary_r_squared,primary_adjusted_r_squared,primary_aic,primary_bic,sensitivity_r_squared,sensitivity_adjusted_r_squared
+market,1666,160,20,2,22,22,27.73,1.07,0.07,0.06,-1286.08,-1166.88,0.14,0.13
+formula,1666,160,20,9,29,29,35.31,1.74,0.08,0.06,-1282.95,-1125.82,0.14,0.13
+ingredient_families,1666,160,20,20,40,40,39.13,2.93,0.09,0.07,-1278.12,-1061.39,0.15,0.13
+active_position_sensitivity,1666,160,20,8,28,28,33.73,1.25,0.08,0.06,-1284.00,-1132.29,0.14,0.13
+fragrance_count_sensitivity,1666,160,20,9,29,29,35.61,1.74,0.08,0.06,-1282.46,-1125.34,0.14,0.13
+active_count_sensitivity,1666,160,20,8,28,28,33.77,1.24,0.08,0.06,-1284.08,-1132.37,0.14,0.13

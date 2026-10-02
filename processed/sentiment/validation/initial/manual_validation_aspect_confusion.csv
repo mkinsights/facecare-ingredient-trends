@@ -1,0 +1,15 @@
+﻿manual_aspect,absorption_finish,application,cleansing_makeup_removal,effectiveness,efficiency,formula_composition,hydration_nourishment,no_aspect,packaging,pore_clogging,price_value,scent,skin_tolerance,texture_consistency
+absorption_finish,7,1,2,0,0,0,0,0,0,2,0,1,1,4
+application,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+cleansing_makeup_removal,0,1,4,0,0,0,0,0,0,0,0,1,0,0
+effectiveness,0,0,1,7,1,0,0,5,4,0,1,1,1,0
+efficiency,0,0,0,0,8,0,0,0,0,0,0,0,0,0
+formula_composition,1,0,1,0,0,8,0,0,0,1,0,0,0,2
+hydration_nourishment,2,1,1,1,1,0,10,0,1,0,1,1,1,0
+no_aspect,0,0,0,0,0,2,0,10,0,0,0,0,0,0
+packaging,0,1,0,0,0,0,0,0,4,0,0,0,0,0
+pore_clogging,0,0,1,0,0,0,0,0,0,7,0,0,0,0
+price_value,0,0,0,0,0,0,0,0,1,0,8,0,0,0
+scent,0,0,0,0,0,0,0,0,0,0,0,5,0,0
+skin_tolerance,0,0,0,0,0,0,0,3,0,0,0,0,7,0
+texture_consistency,0,5,0,1,0,0,0,2,0,0,0,1,0,4

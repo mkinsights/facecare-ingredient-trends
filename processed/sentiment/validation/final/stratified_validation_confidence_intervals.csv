@@ -1,0 +1,5 @@
+﻿metric,estimate,ci_95_lower,ci_95_upper,observations
+aspect_detection_precision,0.97,0.94,0.99,200
+aspect_detection_recall,0.95,0.91,0.97,205
+primary_aspect_recall,0.80,0.75,0.85,205
+sentiment_accuracy_same_aspect,0.80,0.73,0.85,165

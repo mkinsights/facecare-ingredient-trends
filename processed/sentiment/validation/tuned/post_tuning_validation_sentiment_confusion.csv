@@ -1,0 +1,4 @@
+﻿manual_sentiment,negative,neutral,positive
+negative,10,0,1
+neutral,5,3,2
+positive,5,3,73

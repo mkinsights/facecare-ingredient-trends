@@ -1,0 +1,17 @@
+﻿family,feature,feature_type,aspect,expected_direction,review_aspects_count,products_count,brands_count,category2_count,supported_interaction_categories,coefficient,standard_error,ci_95_lower,ci_95_upper,z_value,p_value,q_value_fdr_bh,p_value_display,q_value_fdr_bh_display,fdr_significant_0_05,product_level_coefficient,product_level_ci_95_lower,product_level_ci_95_upper,product_level_q_value_fdr_bh,product_level_robust_result,direction_consistent_with_product_level,convergent_result
+hydration_ingredients,is_ceramides,binary,hydration_nourishment,positive,2399,1084,113,19,4,0.06,0.02,0.02,0.10,2.71,0.01,0.02,<0.01,0.02,True,0.05,0.02,0.08,0.01,True,True,True
+hydration_ingredients,is_hyaluronic_acid,binary,hydration_nourishment,positive,2399,1084,113,19,8,-0.00,0.01,-0.03,0.03,-0.05,0.96,0.96,0.96,0.96,False,-0.01,-0.04,0.01,0.31,False,True,False
+hydration_ingredients,is_panthenol,binary,hydration_nourishment,positive,2399,1084,113,19,6,-0.04,0.02,-0.07,-0.00,-2.13,0.03,0.05,0.03,0.05,True,-0.03,-0.06,0.00,0.13,False,True,False
+effectiveness_ingredients,is_retinoids,binary,effectiveness,positive,2240,1026,117,20,3,-0.10,0.04,-0.18,-0.01,-2.32,0.02,0.06,0.02,0.06,False,-0.02,-0.10,0.07,0.71,False,True,False
+effectiveness_ingredients,is_vitamin_c,binary,effectiveness,positive,2240,1026,117,20,6,-0.02,0.02,-0.06,0.02,-0.86,0.39,0.58,0.39,0.58,False,-0.02,-0.07,0.03,0.71,False,True,False
+effectiveness_ingredients,is_niacinamide,binary,effectiveness,positive,2240,1026,117,20,6,-0.01,0.02,-0.06,0.04,-0.46,0.65,0.65,0.65,0.65,False,-0.02,-0.07,0.03,0.71,False,True,False
+salicylic_acid_performance,is_salicylic_acid,binary,cleansing_makeup_removal,positive,1023,440,67,15,2,0.03,0.05,-0.06,0.12,0.71,0.47,0.47,0.47,0.47,False,-0.01,-0.08,0.05,0.66,False,False,False
+salicylic_acid_performance,is_salicylic_acid,binary,pore_clogging,positive,150,134,46,10,1,-0.19,0.13,-0.45,0.07,-1.41,0.16,0.36,0.16,0.36,False,-0.13,-0.39,0.13,0.51,False,True,False
+salicylic_acid_performance,is_salicylic_acid,binary,skin_tolerance,undirected,841,573,89,19,2,0.07,0.06,-0.05,0.18,1.17,0.24,0.36,0.24,0.36,False,0.04,-0.04,0.12,0.51,False,True,False
+formula_tolerance_sensory,is_parfum,binary,scent,undirected,980,619,93,19,3,0.13,0.04,0.05,0.22,3.26,0.00,0.01,<0.01,<0.01,True,0.14,0.02,0.26,0.08,False,True,False
+formula_tolerance_sensory,fragrance_count,continuous,scent,undirected,980,619,93,19,6,0.03,0.02,-0.00,0.06,1.76,0.08,0.24,0.08,0.24,False,0.04,0.01,0.07,0.08,False,True,False
+formula_tolerance_sensory,is_parfum,binary,skin_tolerance,negative,841,573,89,19,5,-0.01,0.04,-0.09,0.07,-0.32,0.75,0.90,0.75,0.90,False,-0.03,-0.13,0.07,0.84,False,True,False
+formula_tolerance_sensory,fragrance_allergen_count,continuous,skin_tolerance,negative,841,573,89,19,7,-0.02,0.02,-0.06,0.03,-0.67,0.50,0.75,0.50,0.75,False,0.00,-0.04,0.04,0.97,False,False,False
+formula_tolerance_sensory,is_drying_alcohol,binary,skin_tolerance,negative,841,573,89,19,2,0.01,0.06,-0.11,0.12,0.09,0.93,0.93,0.93,0.93,False,-0.00,-0.10,0.09,0.97,False,False,False
+formula_tolerance_sensory,is_drying_alcohol,binary,hydration_nourishment,negative,2399,1084,113,19,3,-0.04,0.03,-0.09,0.02,-1.30,0.19,0.38,0.19,0.38,False,-0.01,-0.06,0.03,0.84,False,True,False
+active_intensity,active_count,continuous,effectiveness,positive,2240,1026,117,20,9,0.00,0.01,-0.03,0.03,0.02,0.98,0.98,0.98,0.98,False,-0.01,-0.04,0.02,0.66,False,False,False

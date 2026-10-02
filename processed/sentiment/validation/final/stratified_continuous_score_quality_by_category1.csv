@@ -1,0 +1,5 @@
+﻿category1,evaluable_mentions,spearman_rho,mean_error_model_minus_manual,mean_absolute_error,root_mean_squared_error
+Oczyszczanie i demakijaż twarzy,49,0.67,0.26,0.57,0.74
+Pielęgnacja twarzy,53,0.67,0.35,0.56,0.72
+Pielęgnacja ust,37,0.63,0.30,0.56,0.73
+Tonizowanie twarzy,26,0.56,0.19,0.56,0.76

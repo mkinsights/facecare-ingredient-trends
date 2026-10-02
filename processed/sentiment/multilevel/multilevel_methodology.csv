@@ -1,0 +1,14 @@
+﻿parameter,value
+observation_unit,one review-aspect observation
+hierarchy,reviews nested in products; products nested in brands
+category2,fixed effects with ingredient × category2 interactions
+random_effects,brand random intercept and product variance component
+outcome,OOF aspect-level sentiment_score collapsed to review-aspect
+controls,"standardized log price, log opinions and ingredients_count; active_count omits ingredients_count"
+interaction_support,binary: at least 10 products with and without feature; continuous: 30 products and 3 values
+average_effect,"category slopes weighted by product counts, not review counts"
+heterogeneity_test,joint Wald test among supported category2 only; pooled other excluded
+multiple_testing,Benjamini-Hochberg FDR within prespecified hypothesis family
+effect_size,adjusted category contrast divided by the SD of aspect sentiment_score in the model sample
+validation,direction compared with equal-product product-level model
+causal_interpretation,not permitted; estimates are adjusted associations

@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+.venv/
+.pytest_cache/
+.test_deps/
+
+# IDE and local tooling
+.idea/
+
+# Local collection state and caches
+.cache/
+raw/kosmopedia_html_cache/
+*.bak
+
+# Generated models
+processed/**/*.joblib
+processed/**/*.log
+
+# Intermediate tables
+processed/summary/by_category/
+processed/summary/by_subcategory/
+processed/sentiment/model/reviews_sentiment_scored.csv
+processed/sentiment/model/sentiment_validation_predictions.csv
+processed/sentiment/product/products_with_sentiment_and_segments.csv
+processed/sentiment/product/segment_sentiment_*.csv
+processed/sentiment/benchmark/supervised_sentiment_test_predictions.csv
+processed/sentiment/validation/**/*_error_rows.csv
+processed/sentiment/validation/**/*_evaluation_rows.csv
+
+# Documents not included in the repository
+*.docx

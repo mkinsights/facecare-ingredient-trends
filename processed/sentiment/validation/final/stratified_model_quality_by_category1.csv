@@ -1,0 +1,5 @@
+﻿category1,validation_rows,manual_aspect_rows,aspect_detection_precision,aspect_detection_recall,aspect_detection_f1,primary_aspect_recall,sentiment_rows_same_aspect,sentiment_accuracy_same_aspect,sentiment_macro_f1_same_aspect,support_status
+Pielęgnacja twarzy,75,67,0.98,0.96,0.97,0.79,53,0.83,0.54,stable
+Oczyszczanie i demakijaż twarzy,65,57,0.96,0.93,0.95,0.86,49,0.76,0.56,stable
+Pielęgnacja ust,55,45,0.96,0.96,0.96,0.82,37,0.81,0.55,stable
+Tonizowanie twarzy,45,36,0.97,0.94,0.96,0.72,26,0.81,0.57,exploratory

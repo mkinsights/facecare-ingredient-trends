@@ -1,0 +1,10 @@
+﻿category1,manual_sentiment,evaluable_mentions,class_recall_same_aspect,support_status
+Oczyszczanie i demakijaż twarzy,negative,30,0.77,exploratory
+Oczyszczanie i demakijaż twarzy,positive,18,0.78,insufficient
+Oczyszczanie i demakijaż twarzy,neutral,1,0.00,insufficient
+Pielęgnacja twarzy,negative,38,0.84,exploratory
+Pielęgnacja twarzy,positive,15,0.80,insufficient
+Pielęgnacja ust,negative,26,0.85,exploratory
+Pielęgnacja ust,positive,11,0.73,insufficient
+Tonizowanie twarzy,negative,17,0.82,insufficient
+Tonizowanie twarzy,positive,9,0.78,insufficient

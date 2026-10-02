@@ -1,0 +1,14 @@
+﻿annotation_id,manual_aspect,manual_notes,model_aspects,note_matches_model_aspect,aspect_text
+V002,absorption_finish,scent,scent,True,"piękny zapach, super orzeźwienie"
+V004,effectiveness,scent,scent,True,"Bardzo dobrze pielęgnuje usta, świetnie pachnie"
+V012,formula_composition,absorption_finish,absorption_finish; skin_tolerance,True,"Lekki, nie szczypie w oczy i sie nie roluje"
+V024,texture_consistency,application,application,True,Trochę ciężko się rozprowadza
+V028,formula_composition,packaging,absorption_finish; packaging; texture_consistency,True,"lekki krem, nie roluje się jedyny minus dla mnie to że nie w tubce tylko w słoiczku"
+V090,formula_composition,pore_clogging,pore_clogging; skin_tolerance,True,"Lekki, Nie zatyka porów, koi moją cerę"
+V102,effectiveness,scent,packaging; scent,True,Moja 5 butelka kocham szczególnie ten zapach cudooo❤️❤️
+V105,effectiveness,hydration_nourishment,application; hydration_nourishment; packaging,True,Niestety produkt nie spełnił moich oczekiwań nie nawilża ciężko się go aplikuje nie chce wyjsc z opakowania
+V106,absorption_finish,skin_tolerance,skin_tolerance; texture_consistency,True,"Bardzo dobry krem, lekki, nie klei się, nie drażni, nie uczula, skóra pięknie po nim wygląda, długo szukałam idealnego kremu a ten taki jest"
+V116,effectiveness,cleansing_makeup_removal,cleansing_makeup_removal,True,"Odkąd zaczęłam używać masełek i balsamów do demakijażu, całkowicie zrezygnowałam z płynów micelarnych"
+V132,absorption_finish,formula_composition,cleansing_makeup_removal,False,Trochę za ciężki pod makijaż
+V145,cleansing_makeup_removal,scent,scent,True,"Dziwnie pachnie, poza tym dobrze doczyszcza"
+V147,texture_consistency,application,application,True,"Lubię go za to, że tak lekko się rozprowadza"

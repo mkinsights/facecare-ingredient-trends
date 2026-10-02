@@ -1,0 +1,14 @@
+﻿variable,products_count,spearman_rho,p_value,q_value_fdr_bh,p_value_display,q_value_fdr_bh_display,fdr_significant_0_05
+weighted_rating,1666,0.44,0.00,0.00,<0.01,<0.01,True
+ingredients_count,1666,0.18,0.00,0.00,<0.01,<0.01,True
+active_count,1666,0.16,0.00,0.00,<0.01,<0.01,True
+active_position_score,1666,0.14,0.00,0.00,<0.01,<0.01,True
+fragrance_allergen_count,1666,0.11,0.00,0.00,<0.01,<0.01,True
+fragrance_count,1666,0.11,0.00,0.00,<0.01,<0.01,True
+is_parfum,1666,0.11,0.00,0.00,<0.01,<0.01,True
+log_opinions,1666,-0.09,0.00,0.00,<0.01,<0.01,True
+log_standardized_price,1666,0.05,0.03,0.04,0.03,0.04,True
+is_colorant,1666,-0.05,0.06,0.08,0.06,0.08,False
+preservative_count,1666,0.04,0.10,0.12,0.10,0.12,False
+drying_alcohol_count,1666,0.03,0.22,0.24,0.22,0.24,False
+active_share,1666,0.03,0.27,0.27,0.27,0.27,False

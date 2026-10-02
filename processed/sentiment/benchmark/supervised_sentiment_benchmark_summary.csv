@@ -1,0 +1,6 @@
+﻿model,evaluated_rows,coverage,accuracy,balanced_accuracy,macro_f1
+supervised_manual_labels_all_test,145,1.00,0.77,0.64,0.61
+review_rating_baseline_all_test,145,1.00,0.87,0.65,0.66
+majority_baseline_all_test,145,1.00,0.78,0.33,0.29
+supervised_on_hybrid_covered_subset,102,0.70,0.77,0.65,0.61
+current_hybrid_covered_subset,102,0.70,0.84,0.70,0.65

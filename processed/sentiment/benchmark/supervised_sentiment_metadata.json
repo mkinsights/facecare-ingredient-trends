@@ -1,0 +1,14 @@
+{
+  "model": "aspect_conditioned_tfidf_logistic_regression",
+  "best_c": 1.0,
+  "inner_cv": "stratified_group_by_product",
+  "inner_folds": 4,
+  "test_policy": "product_and_normalized_text_disjoint_from_development",
+  "development_rows": 269,
+  "test_rows": 145,
+  "sentiment_labels": [
+    "negative",
+    "neutral",
+    "positive"
+  ]
+}

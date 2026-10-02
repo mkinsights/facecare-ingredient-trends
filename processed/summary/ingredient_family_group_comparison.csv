@@ -1,0 +1,12 @@
+﻿ingredient,with_count,without_count,with_share,with_median_weighted_rating,without_median_weighted_rating,median_diff_weighted_rating,with_median_log_opinions,without_median_log_opinions,median_diff_log_opinions,with_median_log_standardized_price,without_median_log_standardized_price,median_diff_log_standardized_price,with_median_ingredients_count,without_median_ingredients_count,median_diff_ingredients_count,with_median_active_count,without_median_active_count,median_diff_active_count,with_median_active_share,without_median_active_share,median_diff_active_share,with_median_active_position_score,without_median_active_position_score,median_diff_active_position_score
+hyaluronic_acid,734,1080,40.46,4.80,4.80,0.00,2.89,3.11,-0.22,4.16,4.14,0.02,32.00,25.00,7.00,17.00,12.00,5.00,54.32,50.00,4.32,26.00,21.00,5.00
+panthenol,469,1345,25.85,4.80,4.79,0.01,2.94,3.04,-0.10,3.81,4.33,-0.52,30.00,27.00,3.00,17.00,13.00,4.00,56.25,50.00,6.25,27.00,22.00,5.00
+vitamin_c,419,1395,23.10,4.80,4.80,0.01,3.22,2.94,0.27,4.51,4.08,0.43,35.00,26.00,9.00,19.00,13.00,6.00,54.55,51.52,3.03,28.00,22.00,6.00
+squalane,374,1440,20.62,4.80,4.80,0.01,2.89,3.09,-0.20,4.74,3.99,0.75,39.00,25.00,14.00,22.00,12.00,10.00,56.56,50.00,6.56,31.00,22.00,9.00
+niacinamide,345,1469,19.02,4.79,4.80,-0.01,2.64,3.09,-0.45,4.15,4.14,0.01,34.00,26.00,8.00,18.00,13.00,5.00,56.67,51.43,5.24,27.00,22.00,5.00
+peptides,334,1480,18.41,4.80,4.80,0.01,2.89,3.04,-0.15,4.63,4.04,0.59,41.00,25.00,16.00,22.50,12.00,10.50,54.55,51.39,3.16,32.00,22.00,10.00
+ceramides,250,1564,13.78,4.80,4.80,0.01,2.97,3.04,-0.07,4.35,4.11,0.24,44.00,26.00,18.00,26.00,13.00,13.00,60.00,50.00,10.00,36.00,22.00,14.00
+aha,228,1586,12.57,4.79,4.80,-0.01,3.14,3.04,0.09,4.11,4.15,-0.04,34.00,27.00,7.00,18.00,13.50,4.50,55.05,51.85,3.20,28.00,23.00,5.00
+centella_asiatica,207,1607,11.41,4.80,4.80,-0.00,2.30,3.09,-0.79,4.16,4.14,0.01,34.00,27.00,7.00,20.00,13.00,7.00,60.53,51.52,9.01,30.00,23.00,7.00
+salicylic_acid,144,1670,7.94,4.79,4.80,-0.00,3.54,3.00,0.55,4.15,4.15,0.00,26.00,27.00,-1.00,12.00,14.00,-2.00,45.45,52.94,-7.49,20.00,24.00,-4.00
+retinoids,103,1711,5.68,4.81,4.80,0.01,3.30,3.00,0.30,4.14,4.15,-0.01,37.00,27.00,10.00,21.00,14.00,7.00,55.17,52.08,3.09,30.00,23.00,7.00

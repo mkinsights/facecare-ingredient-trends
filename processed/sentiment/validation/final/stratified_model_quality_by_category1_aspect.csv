@@ -1,0 +1,48 @@
+﻿category1,aspect,gold_mentions,detected_mentions,aspect_recall,sentiment_evaluable_mentions,sentiment_accuracy,support_status
+Oczyszczanie i demakijaż twarzy,cleansing_makeup_removal,15,12,0.80,12,0.75,insufficient
+Oczyszczanie i demakijaż twarzy,effectiveness,10,7,0.70,7,0.43,insufficient
+Oczyszczanie i demakijaż twarzy,skin_tolerance,10,8,0.80,8,0.75,insufficient
+Oczyszczanie i demakijaż twarzy,hydration_nourishment,7,7,1.00,7,0.86,insufficient
+Oczyszczanie i demakijaż twarzy,scent,6,6,1.00,6,1.00,insufficient
+Oczyszczanie i demakijaż twarzy,price_value,4,4,1.00,4,0.75,insufficient
+Oczyszczanie i demakijaż twarzy,texture_consistency,4,3,0.75,3,0.67,insufficient
+Oczyszczanie i demakijaż twarzy,formula_composition,3,3,1.00,3,1.00,insufficient
+Oczyszczanie i demakijaż twarzy,packaging,3,3,1.00,3,0.33,insufficient
+Oczyszczanie i demakijaż twarzy,pore_clogging,3,3,1.00,3,1.00,insufficient
+Oczyszczanie i demakijaż twarzy,absorption_finish,2,1,0.50,1,1.00,insufficient
+Oczyszczanie i demakijaż twarzy,efficiency,1,1,1.00,1,1.00,insufficient
+Pielęgnacja twarzy,effectiveness,15,9,0.60,9,0.78,insufficient
+Pielęgnacja twarzy,texture_consistency,14,8,0.57,8,0.38,insufficient
+Pielęgnacja twarzy,absorption_finish,13,8,0.62,8,1.00,insufficient
+Pielęgnacja twarzy,scent,8,8,1.00,8,0.75,insufficient
+Pielęgnacja twarzy,skin_tolerance,8,5,0.62,5,1.00,insufficient
+Pielęgnacja twarzy,hydration_nourishment,7,7,1.00,7,1.00,insufficient
+Pielęgnacja twarzy,pore_clogging,5,5,1.00,5,0.40,insufficient
+Pielęgnacja twarzy,formula_composition,4,4,1.00,4,0.75,insufficient
+Pielęgnacja twarzy,packaging,4,3,0.75,3,0.67,insufficient
+Pielęgnacja twarzy,price_value,4,4,1.00,4,0.50,insufficient
+Pielęgnacja twarzy,cleansing_makeup_removal,2,2,1.00,2,1.00,insufficient
+Pielęgnacja twarzy,application,1,1,1.00,1,1.00,insufficient
+Pielęgnacja twarzy,efficiency,1,1,1.00,1,1.00,insufficient
+Pielęgnacja ust,hydration_nourishment,11,10,0.91,10,1.00,insufficient
+Pielęgnacja ust,effectiveness,10,4,0.40,4,0.75,insufficient
+Pielęgnacja ust,scent,8,8,1.00,8,0.88,insufficient
+Pielęgnacja ust,texture_consistency,7,7,1.00,7,0.57,insufficient
+Pielęgnacja ust,absorption_finish,4,3,0.75,3,0.67,insufficient
+Pielęgnacja ust,price_value,4,4,1.00,4,0.50,insufficient
+Pielęgnacja ust,skin_tolerance,3,2,0.67,2,1.00,insufficient
+Pielęgnacja ust,application,1,1,1.00,1,1.00,insufficient
+Pielęgnacja ust,efficiency,1,1,1.00,1,1.00,insufficient
+Pielęgnacja ust,formula_composition,1,0,0.00,0,,insufficient
+Pielęgnacja ust,packaging,1,1,1.00,1,1.00,insufficient
+Tonizowanie twarzy,skin_tolerance,8,6,0.75,6,0.83,insufficient
+Tonizowanie twarzy,effectiveness,7,5,0.71,5,1.00,insufficient
+Tonizowanie twarzy,scent,7,5,0.71,5,0.40,insufficient
+Tonizowanie twarzy,hydration_nourishment,5,5,1.00,5,0.60,insufficient
+Tonizowanie twarzy,texture_consistency,4,2,0.50,2,0.50,insufficient
+Tonizowanie twarzy,pore_clogging,3,1,0.33,1,1.00,insufficient
+Tonizowanie twarzy,absorption_finish,2,1,0.50,1,1.00,insufficient
+Tonizowanie twarzy,formula_composition,2,2,1.00,2,0.50,insufficient
+Tonizowanie twarzy,application,1,1,1.00,1,1.00,insufficient
+Tonizowanie twarzy,packaging,1,1,1.00,1,1.00,insufficient
+Tonizowanie twarzy,price_value,1,1,1.00,1,1.00,insufficient

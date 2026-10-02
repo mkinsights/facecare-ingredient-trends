@@ -1,0 +1,17 @@
+﻿category1,sample_type,model_sentiment_label,rows
+Oczyszczanie i demakijaż twarzy,candidate_aspect,negative,22
+Oczyszczanie i demakijaż twarzy,candidate_aspect,neutral,17
+Oczyszczanie i demakijaż twarzy,candidate_aspect,positive,16
+Oczyszczanie i demakijaż twarzy,no_aspect_control,,10
+Pielęgnacja twarzy,candidate_aspect,negative,26
+Pielęgnacja twarzy,candidate_aspect,neutral,20
+Pielęgnacja twarzy,candidate_aspect,positive,19
+Pielęgnacja twarzy,no_aspect_control,,10
+Pielęgnacja ust,candidate_aspect,negative,18
+Pielęgnacja ust,candidate_aspect,neutral,14
+Pielęgnacja ust,candidate_aspect,positive,13
+Pielęgnacja ust,no_aspect_control,,10
+Tonizowanie twarzy,candidate_aspect,negative,14
+Tonizowanie twarzy,candidate_aspect,neutral,11
+Tonizowanie twarzy,candidate_aspect,positive,10
+Tonizowanie twarzy,no_aspect_control,,10

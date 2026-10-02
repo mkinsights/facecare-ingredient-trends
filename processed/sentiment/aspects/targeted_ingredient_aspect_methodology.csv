@@ -1,0 +1,11 @@
+﻿parameter,value
+observation_unit,one product-aspect with equal product weight
+outcome,product mean OOF sentiment_score for the selected aspect
+primary_model,OLS with category2 fixed effects and brand-clustered errors
+controls,"log price, log opinions and ingredients_count; active_count omits ingredients_count due collinearity"
+continuous_effect,coefficient for a one-standard-deviation increase
+binary_effect,presence versus absence of the feature
+sensitivity,WLS by aspect review count capped at 10; brand-clustered errors
+multiple_testing,Benjamini-Hochberg FDR within each prespecified hypothesis family
+dryness_measurement,proxied by hydration_nourishment and skin_tolerance; no separate dryness aspect exists
+causal_interpretation,not permitted; estimates are adjusted associations

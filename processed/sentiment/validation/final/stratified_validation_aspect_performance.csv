@@ -1,0 +1,14 @@
+﻿aspect,gold_mentions,detected_mentions,missed_mentions,recall
+effectiveness,42,25,17,0.60
+absorption_finish,21,13,8,0.62
+texture_consistency,29,20,9,0.69
+skin_tolerance,29,21,8,0.72
+pore_clogging,11,9,2,0.82
+cleansing_makeup_removal,17,14,3,0.82
+packaging,9,8,1,0.89
+formula_composition,10,9,1,0.90
+scent,29,27,2,0.93
+hydration_nourishment,30,29,1,0.97
+application,3,3,0,1.00
+efficiency,3,3,0,1.00
+price_value,13,13,0,1.00

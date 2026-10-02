@@ -1,0 +1,9 @@
+﻿threshold_version,dataset,dataset_role,evaluable_mentions,accuracy,macro_f1,predicted_negative,predicted_neutral,predicted_positive
+pre_calibration,development,optimization,142,0.84,0.70,34,12,96
+pre_calibration,initial_validation,held_out_validation,108,0.83,0.57,18,9,81
+pre_calibration,post_tuning_validation,held_out_validation,102,0.81,0.59,14,11,77
+pre_calibration,stratified_validation,held_out_validation,165,0.63,0.49,71,43,51
+implemented_development_calibrated,development,optimization,142,0.86,0.74,41,8,93
+implemented_development_calibrated,initial_validation,held_out_validation,108,0.88,0.63,23,5,80
+implemented_development_calibrated,post_tuning_validation,held_out_validation,102,0.84,0.65,20,6,76
+implemented_development_calibrated,stratified_validation,held_out_validation,165,0.80,0.55,101,15,49

@@ -1,0 +1,15 @@
+﻿group,rows,accuracy,macro_f1
+absorption_finish,12,1.0,0.67
+all,108,0.88,0.63
+application,1,1.0,0.33
+cleansing_makeup_removal,5,1.0,0.67
+effectiveness,11,0.91,0.87
+efficiency,8,0.88,0.6
+formula_composition,9,0.89,0.31
+hydration_nourishment,19,1.0,0.67
+packaging,5,0.8,0.6
+pore_clogging,8,0.75,0.56
+price_value,9,0.78,0.47
+scent,5,0.6,0.33
+skin_tolerance,7,0.86,0.56
+texture_consistency,9,0.78,0.53

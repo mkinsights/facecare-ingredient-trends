@@ -1,0 +1,81 @@
+{
+  "model_type": "ordinal_tfidf_logistic_regression_with_rule_based_aspects",
+  "training_reviews": 11609,
+  "training_products": 1666,
+  "validation_reviews": 11609,
+  "validation_products": 1666,
+  "oof_folds": 5,
+  "random_state": 42,
+  "class_weight_power": 0.35,
+  "sentiment_negative_score_threshold": 0.1,
+  "sentiment_positive_score_threshold": 0.4,
+  "validation_split": "stratified_group_oof_by_product",
+  "validation_product_ids_file": "validation_product_ids.csv",
+  "purged_training_text_overlaps": 7291,
+  "folds": [
+    {
+      "fold": 1,
+      "training_reviews": 7835,
+      "validation_reviews": 2323,
+      "training_products": 1299,
+      "validation_products": 332,
+      "purged_training_text_overlaps": 1451
+    },
+    {
+      "fold": 2,
+      "training_reviews": 7811,
+      "validation_reviews": 2321,
+      "training_products": 1301,
+      "validation_products": 335,
+      "purged_training_text_overlaps": 1477
+    },
+    {
+      "fold": 3,
+      "training_reviews": 7803,
+      "validation_reviews": 2322,
+      "training_products": 1298,
+      "validation_products": 333,
+      "purged_training_text_overlaps": 1484
+    },
+    {
+      "fold": 4,
+      "training_reviews": 7835,
+      "validation_reviews": 2322,
+      "training_products": 1299,
+      "validation_products": 335,
+      "purged_training_text_overlaps": 1452
+    },
+    {
+      "fold": 5,
+      "training_reviews": 7861,
+      "validation_reviews": 2321,
+      "training_products": 1317,
+      "validation_products": 331,
+      "purged_training_text_overlaps": 1427
+    }
+  ],
+  "rating_distribution": {
+    "1": 262,
+    "2": 223,
+    "3": 412,
+    "4": 1241,
+    "5": 9471
+  },
+  "aspects": {
+    "effectiveness": "performance",
+    "hydration_nourishment": "performance",
+    "skin_tolerance": "performance",
+    "pore_clogging": "performance",
+    "cleansing_makeup_removal": "performance",
+    "texture_consistency": "sensory",
+    "absorption_finish": "sensory",
+    "scent": "sensory",
+    "application": "sensory",
+    "packaging": "packaging",
+    "price_value": "economic",
+    "efficiency": "economic",
+    "formula_composition": "formula"
+  },
+  "aspect_mentions": 13307,
+  "reviews_with_aspect": 7033
+}

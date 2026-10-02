@@ -1,0 +1,5 @@
+﻿sample_type,sampling_stratum,rows
+candidate_aspect,additional_hard_case,4
+candidate_aspect,hard_case,52
+candidate_aspect,standard_candidate,104
+no_aspect_control,no_detected_aspect,40

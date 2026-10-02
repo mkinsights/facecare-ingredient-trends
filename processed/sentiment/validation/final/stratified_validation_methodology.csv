@@ -1,0 +1,10 @@
+﻿parameter,value
+sampling_design,stratified by category1 and predicted sentiment
+class_distribution,negative and neutral predictions intentionally oversampled
+interpretation,"quality validation, not population sentiment prevalence"
+independence,fragments excluded from all earlier annotation samples
+sentiment_evaluation,conditional on correct detection of the manual primary aspect
+manual_sentiment_score,"negative=-1, neutral=0, positive=1"
+continuous_score_validation,Spearman rho and prediction error; not population calibration
+multilabel_aspects,additional exact aspect codes parsed from manual_notes
+measurement_status,post-validation quality gate for exploratory comparisons

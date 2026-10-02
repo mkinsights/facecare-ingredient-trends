@@ -1,0 +1,6 @@
+﻿actual_rating,predicted_1,predicted_2,predicted_3,predicted_4,predicted_5
+actual_1,13,85,93,65,6
+actual_2,11,52,89,62,9
+actual_3,7,48,145,178,34
+actual_4,1,11,103,496,630
+actual_5,0,6,66,1215,8184

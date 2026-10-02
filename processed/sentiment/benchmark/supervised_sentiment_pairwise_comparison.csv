@@ -1,0 +1,4 @@
+﻿comparison,rows,products,accuracy_a,accuracy_b,accuracy_difference_a_minus_b,accuracy_difference_ci_95_lower,accuracy_difference_ci_95_upper,macro_f1_a,macro_f1_b,macro_f1_difference_a_minus_b,macro_f1_difference_ci_95_lower,macro_f1_difference_ci_95_upper,a_only_correct,b_only_correct,mcnemar_exact_p
+supervised_text_vs_review_rating_baseline_all_test,145,135,0.77,0.87,-0.10,-0.18,-0.02,0.61,0.66,-0.05,-0.22,0.12,12,27,0.02
+supervised_text_vs_current_hybrid_covered_subset,102,98,0.77,0.84,-0.07,-0.15,0.01,0.61,0.65,-0.04,-0.22,0.13,6,13,0.17
+current_hybrid_vs_review_rating_baseline_covered_subset,102,98,0.84,0.86,-0.02,-0.10,0.06,0.65,0.56,0.09,-0.11,0.27,8,10,0.81

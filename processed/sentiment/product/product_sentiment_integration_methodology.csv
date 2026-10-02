@@ -1,0 +1,12 @@
+﻿parameter,value
+primary_outcome,sentiment_score
+sentiment_definition,mean OOF review-level sentiment_score for one product
+primary_observation_unit,one product with equal weight
+correlation,Spearman; weighted_rating used only for convergent validation
+primary_regression,OLS with category2 fixed effects and brand-clustered errors
+regression_scaling,continuous predictors z-standardized; binary predictors kept 0/1
+collinearity_control,"active_share is primary; active_count, position and broad fragrance count use separate sensitivity models"
+sensitivity_regression,WLS by reviews_analyzed capped at 10; brand-clustered errors
+multiple_testing,Benjamini-Hochberg FDR within each model
+segment_diagnostic,exploratory Kruskal-Wallis tests; omitted from main conclusions because silhouette was low
+interpretation,"associational, not causal; sentiment availability is reported"

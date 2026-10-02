@@ -1,0 +1,152 @@
+﻿annotation_id,sample_type,review_id,id,aspect_text,manual_aspect,manual_sentiment,has_negation,manual_notes
+V001,candidate_aspect,4529,2103355,"Jest to mój drugi zakup, skóra po tym serum jest delikatnie nawilżona i promienna, serum ładnie się wchłania i nie pozostawia tłustej warstwy",absorption_finish,positive,yes,
+V002,candidate_aspect,6922,21793,"piękny zapach, super orzeźwienie",absorption_finish,positive,no,scent
+V003,no_aspect_control,6625,2124411,też nie jest dobrze,no_aspect,negative,yes,
+V004,candidate_aspect,3221,2099451,"Bardzo dobrze pielęgnuje usta, świetnie pachnie",effectiveness,positive,no,scent
+V005,candidate_aspect,8631,349391,Top jak za ta cene polecam🙌,price_value,positive,no,
+V006,candidate_aspect,4968,2104637,Dzień po zastosowaniu wciąż czuję nawilżenie na twarzy,hydration_nourishment,positive,no,
+V007,no_aspect_control,4788,2104548,Średnie,no_aspect,neutral,no,
+V008,candidate_aspect,4510,2103352,Mało wydajny,efficiency,neutral,no,
+V009,candidate_aspect,6502,2122100,idealnie nawilża i ma piękny zapach,hydration_nourishment,positive,no,scent
+V010,candidate_aspect,1384,2076066,"Przyjemna konsystencja kremu, dobrze się wchłania",texture_consistency,positive,no,absorption_finish
+V011,candidate_aspect,1081,203826,Niska cena,price_value,positive,no,
+V012,candidate_aspect,2193,2078557,"Lekki, nie szczypie w oczy i sie nie roluje",formula_composition,positive,yes,absorption_finish
+V013,candidate_aspect,5221,2110104,Bardzo dobra pomadka do ust suchych i spierzchniętych super nawilża i długo utrzymuje nawilżone usta,hydration_nourishment,positive,no,absorption_finish
+V014,candidate_aspect,8785,357712,"Bardzo przyjemnie,nie agresywnie oczyszcza skórę,nawilża,odświeża!",hydration_nourishment,positive,yes,
+V015,no_aspect_control,8127,322608,Ponieważ na mojej twarzy zaczęły pojawiać się prosaki poszukałam ratunku,effectiveness,positive,no,
+V016,candidate_aspect,5127,2106778,"Uwielbiam zapach i efekt na twarzy, czasem kremy nie są tak nawilżające i kojące jak to mleczko",hydration_nourishment,positive,no,scent
+V017,candidate_aspect,4053,2103030,Dobrze się wchłania,absorption_finish,positive,no,
+V018,candidate_aspect,1951,2078287,"Przyjemny produkt, ładnie pachnie, ma konsystencję kremiki",texture_consistency,positive,no,scent
+V019,candidate_aspect,9633,381949,"Ma aksamitną teksturę, która pięknie się rozprowadza",texture_consistency,positive,no,application
+V020,candidate_aspect,6013,2113755,"Bardzo fajna esencja do twarzy , nawilża i rozświetla skórę, jako serum lub jako tonik mleczny.👍️",hydration_nourishment,positive,no,
+V021,candidate_aspect,1584,2077053,"Świetnie nawilża, dobrze się wchłania 💞",hydration_nourishment,positive,no,absorption_finish
+V022,candidate_aspect,11569,62937,w tym opakowaniu kryje się malutki słoiczek z kremem a w słoiczku mało kremu,packaging,negative,no,
+V023,candidate_aspect,10451,402181,"Przyjemnie kojący, mam cerę mieszaną i mnie nie zapycha",pore_clogging,positive,yes,
+V024,candidate_aspect,4081,2103104,Trochę ciężko się rozprowadza,texture_consistency,negative,no,application
+V025,candidate_aspect,351,167244,"Mam cerę delikatną i miejscami przesuszoną, a mimo to żel nie powoduje podrażnień ani dyskomfortu",skin_tolerance,positive,yes,
+V026,candidate_aspect,5929,2113740,Super się nakłada – codzienna pielęgnacja to przyjemność,texture_consistency,positive,no,
+V027,candidate_aspect,3842,2102844,Wydajny,efficiency,positive,no,
+V028,candidate_aspect,9155,370335,"lekki krem, nie roluje się jedyny minus dla mnie to że nie w tubce tylko w słoiczku",formula_composition,positive,yes,packaging
+V029,candidate_aspect,5836,2113657,"Pianka bardzo wydajna, wystarczy jedna dawka, skóra twarzy zaraz po pierwszy użyciu bardzo delikatna i rozświetlona",efficiency,positive,no,absorption_finish
+V030,candidate_aspect,4528,2103355,"Najdelikatniejsze serum jakie do tej pory używałam, super, polecam pod makijaż",formula_composition,positive,no,
+V031,candidate_aspect,1411,207637,nie do końca rozpuszcza tusz do rzęs a nie używam wodoodpornego i trzeba ostrożnie aplikować bo zbyt dużo się go wylewa na wacik,cleansing_makeup_removal,negative,yes,application
+V032,no_aspect_control,4954,2104576,👍️👍️,no_aspect,positive,no,
+V033,candidate_aspect,8025,317787,Super skład,formula_composition,positive,no,
+V034,no_aspect_control,6729,2124772,Więcej,no_aspect,neutral,no,
+V035,candidate_aspect,436,172262,Słabo zmywa wodoodporny tusz,cleansing_makeup_removal,negative,no,
+V036,candidate_aspect,4959,2104594,Nie uczula mnie i ładnie pachnie,skin_tolerance,positive,yes,scent
+V037,candidate_aspect,2908,2091799,Super pod makijaż 💪,absorption_finish,positive,no,
+V038,candidate_aspect,10190,394832,"Nie zapycha porów, a skóra staje się gładsza i bardziej rozświetlona",pore_clogging,positive,yes,
+V039,candidate_aspect,10527,404487,Minus za lepkość na twarzy,absorption_finish,neutral,no,
+V040,candidate_aspect,5728,2113549,"Nie przyjrzałam się napisom, będąc pewna, iż jest to serum z kwasem hialuronowym wielokrotnie przeze mnie kupowane (ten sam kolor opakowania)",no_aspect,neutral,yes,
+V041,candidate_aspect,3602,2102022,"Nie zatyka porów, koi moją cerę",pore_clogging,positive,yes,
+V042,candidate_aspect,7981,315757,"Nie zapycha porów, a skóra staje się gładsza i bardziej rozświetlona",pore_clogging,positive,yes,
+V043,candidate_aspect,2881,2091737,Trochę szczypie,skin_tolerance,neutral,no,
+V044,candidate_aspect,114,124125,"Rewelacyjny płyn ,zmywa każdy makijaż",cleansing_makeup_removal,positive,no,
+V045,candidate_aspect,1101,203938,Poprawia jędrność mojej cery i nawilża,effectiveness,positive,no,hydration_nourishment
+V046,candidate_aspect,1522,2076671,To już moje drugie opakowanie,effectiveness,positive,no,
+V047,no_aspect_control,688,2011117,Ta pomadka higieniczna jest stara i wyschnięta,texture_consistency,negative,no,
+V048,candidate_aspect,5614,2113521,"Świetnie nawilża skórę, pięknie się wchłania",hydration_nourishment,positive,no,absorption_finish
+V049,no_aspect_control,10449,402181,"Cala Wasza akcja z wocherami i prezentami to sciema ,nie ma ich w dregeriach",no_aspect,negative,yes,
+V050,candidate_aspect,5105,2105967,"Z plusów, że nie bieli i nie zapycha",absorption_finish,positive,yes,pore_clogging
+V051,candidate_aspect,904,2031146,Skład jest przejrzysty i budzi moje pełne zaufanie,formula_composition,positive,no,
+V052,candidate_aspect,1895,2077732,nie wysusza,hydration_nourishment,positive,yes,
+V053,candidate_aspect,3634,2102026,Minus za zapach,scent,neutral,no,
+V054,candidate_aspect,10707,408552,To już kolejne opakowanie,effectiveness,positive,no,
+V055,no_aspect_control,1460,2076575,Brak w ofercie przezroczystych plastrów,no_aspect,negative,no,
+V056,candidate_aspect,11285,418848,"Świetnie zmywa makijaż, nie wysusza i jest mega wydajny",hydration_nourishment,positive,yes,cleansing_makeup_removal
+V057,candidate_aspect,4893,2104565,"Porwała się przy samym wyjmowaniu, strasznie była pozawijana w opakowaniu, ciężko było jej użyć",packaging,negative,no,
+V058,candidate_aspect,11161,418086,"Krem delikatny o lekkiej konsystencji,aktualnie w mojej codziennej pielęgnacji,a efekty pewnie dopiero za jakiś czas, póki co,jestem zadowolona.Skóra jest miękka, dobrze nawilżona",texture_consistency,positive,no,hydration_nourishment
+V059,candidate_aspect,3745,2102071,"Opakowanie bardzo ciężko się otwiera, żel jest mało wydajny, spienia się na taką gęstą, ciężką, mało napowietrzoną pianę",efficiency,negative,no,packaging
+V060,candidate_aspect,1673,2077365,"Uwielbiam ten krem za to, jak lekko się aplikuje",application,positive,no,
+V061,no_aspect_control,8056,317887,Skóra jest bardziej elastyczna,effectiveness,positive,no,absorption_finish
+V062,candidate_aspect,150,13161,Działa świetnie jako baza pod codzienne wyzwania,effectiveness,positive,no,
+V063,candidate_aspect,2430,2083931,Strasznie wysusza mi usta a nawet pojawiły się na nich pęknięcia i nadzerki po paru zastosowaniach tego produktu,hydration_nourishment,negative,no,
+V064,candidate_aspect,4209,2103205,"Efekt na twarzy - kiepski, skóra po spryskaniu zrobiła się tłusta",absorption_finish,negative,no,
+V065,candidate_aspect,5074,2104852,"super się wchłania, nawilża",absorption_finish,positive,no,
+V066,candidate_aspect,4654,2103906,trochę zapychać,pore_clogging,neutral,no,
+V067,no_aspect_control,8894,357910,Strasznie mnie uczulił,skin_tolerance,negative,no,
+V068,candidate_aspect,8670,349584,Wszystko w porządku z jego działaniem,effectiveness,positive,no,
+V069,candidate_aspect,10947,411644,"Regeneruje, koi, daje mi 100% zadowolenia",effectiveness,positive,no,
+V070,no_aspect_control,10007,390442,na cerę naczynkową,skin_tolerance,positive,no,
+V071,candidate_aspect,9644,381952,Mało wydajna,efficiency,negative,no,
+V072,candidate_aspect,7011,223572,"Fantastyczna, lekka formuła",formula_composition,positive,no,
+V073,candidate_aspect,4555,2103455,Słabo domywa i słabo się zmywa,cleansing_makeup_removal,negative,no,absorption_finish
+V074,no_aspect_control,363,167246,Bardzo dobre plastry,no_aspect,positive,no,
+V075,candidate_aspect,2806,2091678,Opakowanie jest praktyczne,packaging,positive,no,
+V076,candidate_aspect,10478,402886,szukam płynu micelarnego o podobnym składzie i działaniu jak Soraya Plante który niestety został wycofany :(,no_aspect,neutral,no,
+V077,candidate_aspect,10157,393647,"Bardzo lekka formuła, przypomina delikatny olejek",formula_composition,positive,no,
+V078,candidate_aspect,10393,396853,Cudownie kremowa formuła – łatwo się go używa,formula_composition,positive,no,texture_consistency
+V079,candidate_aspect,2588,2089509,Bardzo dobra jakość w rozsądnej cenie,price_value,positive,no,
+V080,candidate_aspect,7224,243206,Extra formuła,formula_composition,positive,no,
+V081,candidate_aspect,630,2009024,Rozczarowuje zapach i posmak,scent,negative,no,
+V082,candidate_aspect,2833,2091681,"Mąż zadowolony z kremu, skóra jest nawilżona i odżywiona, a przy tym jest matowe wykończenie",hydration_nourishment,positive,no,absorption_finish
+V083,candidate_aspect,4339,2103250,Drogi bez promocji,price_value,negative,no,
+V084,candidate_aspect,9355,378779,Super się nakłada – codzienna pielęgnacja to przyjemność,texture_consistency,positive,no,
+V085,candidate_aspect,7736,288096,"Bardzo dobrze się wchłania, nie trzeba długo czekać",absorption_finish,positive,yes,
+V086,no_aspect_control,4749,2104447,Maski Perfecty są najczęściej wybieranymi przeze mnie,no_aspect,positive,no,
+V087,candidate_aspect,5529,2112323,Stick nie działa,application,negative,yes,
+V088,candidate_aspect,3771,2102075,"Bardzo gęsta, ciągnąca wręcz konsystencja, pozostawia mocny biały film na twarzy",texture_consistency,negative,no,absorption_finish
+V089,candidate_aspect,5815,2113653,Wygodne opakowanie ułatwia codzienne stosowanie,packaging,positive,no,
+V090,candidate_aspect,10551,404490,"Lekki, Nie zatyka porów, koi moją cerę",formula_composition,positive,yes,pore_clogging
+V091,candidate_aspect,3182,2098737,"Dodatkowym plusem plasterków, oprócz oczywiście przyspieszenia gojenia skóry, jest to, że nie rozdrapujesz i rozdrażniasz skóry z wypryskiem, bo jest ona zaklejona i chroniona plasterkiem",effectiveness,positive,yes,
+V092,candidate_aspect,9972,390186,Jednak mam tendencje do zapychania i niestety ten krem mnie delikatnie zapycha,pore_clogging,neutral,no,
+V093,no_aspect_control,2850,2091683,Polecam,no_aspect,positive,no,
+V094,candidate_aspect,745,2031029,"Trochę zapychał pory i powstawały punktowe stany zapalne, głównie na policzkach, nosie i brodzie",pore_clogging,negative,no,skin_tolerance
+V095,candidate_aspect,131,131521,"Tania,średnio działa",effectiveness,neutral,no,
+V096,candidate_aspect,1093,203938,"Nie zostawia tłustego filmu, skóra jest od razu gotowa na makijaż",absorption_finish,positive,yes,
+V097,no_aspect_control,1698,2077382,Spoko nie odklejają się są ok,effectiveness,positive,yes,
+V098,candidate_aspect,7194,237676,"Dobra konsystencja, zapach, przyjemny w uzyciu",texture_consistency,positive,no,scent
+V099,candidate_aspect,4664,2103910,Nie mam pojęcia o działaniu bo działają krótko,effectiveness,neutral,yes,
+V100,candidate_aspect,7766,290022,"Nie zawiera alkoholu, co jest plusem",formula_composition,positive,yes,
+V101,candidate_aspect,7476,265455,🤩💞nawilża od razu skórę,hydration_nourishment,positive,no,
+V102,candidate_aspect,8779,357711,Moja 5 butelka kocham szczególnie ten zapach cudooo❤️❤️,effectiveness,positive,no,scent
+V103,candidate_aspect,4623,2103469,"Serum bardzo wydajne, po użyciu przez kilka dni widzę poprawę aktualnych wyprysków, wyciszają się i powoli znikają - bez pogarszania",effectiveness,positive,no,efficiency
+V104,candidate_aspect,3403,2100492,"Nie polecam, trafiłam na otwarty i użyty krem , a zwrotu już nie chcą przyjąć mimo wadliwego produktu",packaging,negative,yes,
+V105,candidate_aspect,6513,2122102,Niestety produkt nie spełnił moich oczekiwań nie nawilża ciężko się go aplikuje nie chce wyjsc z opakowania,effectiveness,negative,yes,hydration_nourishment
+V106,candidate_aspect,5785,2113628,"Bardzo dobry krem, lekki, nie klei się, nie drażni, nie uczula, skóra pięknie po nim wygląda, długo szukałam idealnego kremu a ten taki jest",absorption_finish,positive,yes,skin_tolerance
+V107,no_aspect_control,1484,2076622,Nieduże zmiany,effectiveness,neutral,no,
+V108,candidate_aspect,3241,2099575,Nie dostrzegłam efektu powiększenia ust,effectiveness,negative,no,
+V109,candidate_aspect,3518,2101981,"Jest lekki, dobrze się wchłania, nie zapycha porów a jednocześnei dobrze pełni swoja ochronna rolę",absorption_finish,positive,yes,pore_clogging
+V110,candidate_aspect,9436,379435,wtedy jest dobry stosunek ceny do jakości,price_value,positive,no,
+V111,candidate_aspect,8544,348648,"Polecam ,fajnie nawilża i koi",hydration_nourishment,positive,no,
+V112,candidate_aspect,11120,417990,"Produkt Nie pieni się bardzo, za to zmywa nieczystości ze skóry bardzo dobrze",cleansing_makeup_removal,positive,yes,
+V113,candidate_aspect,9786,385737,Brak odczucia nawilżenia,hydration_nourishment,negative,no,
+V114,candidate_aspect,1978,2078293,"cena zdecydowanie za droga, kupiłam krem na dużej promocji, inaczej bym nie inwestowała w to pieniędzy",price_value,negative,yes,
+V115,candidate_aspect,10403,396859,"Krem jest bardzo wydajny, wystarczy niewielka ilość",efficiency,positive,no,
+V116,candidate_aspect,11336,419387,"Odkąd zaczęłam używać masełek i balsamów do demakijażu, całkowicie zrezygnowałam z płynów micelarnych",effectiveness,positive,no,cleansing_makeup_removal
+V117,no_aspect_control,9690,383003,Platki za bardzo nasaczone rozrywaja sie przy nakladaniu pod oczy,texture_consistency,negative,no,application
+V118,candidate_aspect,4177,2103201,Dość drogie strasznie uczula i wysusza według mnie mega kit,price_value,negative,no,skin_tolerance
+V119,candidate_aspect,6254,2115441,Pięknie pachnie i cudownie wygląda na ustach,scent,positive,no,
+V120,candidate_aspect,3128,2093918,Po kilku dniach nakładania na twarz skóra jest widocznie lepiej nawilżona,hydration_nourishment,positive,no,
+V121,candidate_aspect,6308,2117097,"Nie nawilża i powoduje okropny lepko cierpki posmak na ustach zaraz po tym jak spłynie z miejsca gdzie go zaaplikowano, plus za zapach i cenę",hydration_nourishment,negative,yes,
+V122,candidate_aspect,4138,2103166,To pierwsze opakowanie - jest ok - skóra dosyć długo jest nawilżona,hydration_nourishment,positive,no,
+V123,candidate_aspect,5381,2110831,"Jest bardzo dobra maseczka za taką cenę, a dodatkowo jestem zadowolona z opakowania, że mam zapas w lodówce maseczek i w każdej chwili mogę nałożyć maseczkę 🔥",price_value,positive,no,packaging
+V124,candidate_aspect,6547,2123607,Mega fajna pomatka bardzo dobrze nawilża 💛♥️♥️🥰,hydration_nourishment,positive,no,
+V125,candidate_aspect,1332,2075661,"Dobrze się nakłada, nie jest twarda i nie robi dziwnej warstwy na ustach",absorption_finish,positive,yes,texture_consistency
+V126,candidate_aspect,7225,243209,"Lekka formuła, idealna na co dzień",formula_composition,positive,no,
+V127,candidate_aspect,7449,258872,Tonik pięknie pachnie i spełnia swoje wymagania,scent,positive,no,
+V128,candidate_aspect,4554,2103455,Pięknie pachnie i jest wydajny,efficiency,positive,no,scent
+V129,candidate_aspect,8034,317787,Nie oczyszcza porów,pore_clogging,negative,yes,
+V130,candidate_aspect,4877,2104557,"Maska ma postać gęstego żelu, który rozprowadza się dość ciężko",texture_consistency,negative,no,application
+V131,candidate_aspect,3939,2102956,Serum doskonale do wrażliwej skóry,skin_tolerance,positive,no,
+V132,candidate_aspect,10046,390632,Trochę za ciężki pod makijaż,absorption_finish,negative,no,formula_composition
+V133,candidate_aspect,5806,2113645,"Krem w sam raz dla mnie - lekki, nie zostawia tłustej warstwy",absorption_finish,positive,yes,formula_composition
+V134,candidate_aspect,1254,2071285,"To mój pierwszy produkt z retinolem, nie wystąpiły żadne podrażnienia",skin_tolerance,positive,yes,
+V135,candidate_aspect,8822,357719,Bardzo zadowolona z efektu nawilzania,hydration_nourishment,positive,no,
+V136,no_aspect_control,1675,2077365,Mój numer 1 w pielęgnacji cery,effectiveness,positive,no,
+V137,candidate_aspect,10940,411644,"Krem jest bardzo wydajny, wystarczy niewielka ilość",efficiency,positive,no,
+V138,candidate_aspect,743,2031029,"Bardzo sprawnie się wchłania, co ułatwia dalszą pielęgnację",absorption_finish,positive,no,
+V139,candidate_aspect,9262,373941,"Nie roluje się pod podkładem, świetny jako baza",absorption_finish,positive,yes,
+V140,candidate_aspect,9137,370191,Roluje się pod makijażem,absorption_finish,negative,no,
+V141,candidate_aspect,3773,2102075,Skład kremu zapowiadał sie obiecująco,formula_composition,negative,no,
+V142,candidate_aspect,11056,417200,"Ma delikatny, przyjemny zapach – dodatkowy plus przy aplikacji",scent,positive,no,
+V143,no_aspect_control,291,15589,Super 👍️,no_aspect,positive,no,
+V144,candidate_aspect,9720,385727,Masakrycznie piecze w twarz po kilku sekundach,skin_tolerance,negative,no,
+V145,candidate_aspect,10716,408553,"Dziwnie pachnie, poza tym dobrze doczyszcza",cleansing_makeup_removal,neutral,no,scent
+V146,no_aspect_control,10719,408553,"Nie wiem, czy to zbieg okoliczności czy wina żelu, dlatego trzy gwiazdki",skin_tolerance,neutral,no,
+V147,candidate_aspect,9865,385762,"Lubię go za to, że tak lekko się rozprowadza",texture_consistency,positive,no,application
+V148,candidate_aspect,6118,2113784,Warto mieć go w swojej kosmetyczce,price_value,positive,no,
+V149,candidate_aspect,467,177944,👍️jest tolerancyjny dla cery wrazliwej i nie uczula,skin_tolerance,positive,yes,
+V150,candidate_aspect,3913,2102953,Znakomicie sprawdza się jako część wieczornej rutyny,effectiveness,positive,no,
+V106,candidate_aspect,5785,2113628,"Bardzo dobry krem, lekki, nie klei się, nie drażni, nie uczula, skóra pięknie po nim wygląda, długo szukałam idealnego kremu a ten taki jest",absorption_finish,positive,yes,skin_tolerance

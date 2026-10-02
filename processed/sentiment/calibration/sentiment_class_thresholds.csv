@@ -1,0 +1,3 @@
+﻿threshold_version,negative_upper_bound,neutral_upper_bound,derived_from
+pre_calibration,-0.25,0.25,original rating interpretation
+implemented_development_calibrated,0.10,0.40,manual development sample macro F1

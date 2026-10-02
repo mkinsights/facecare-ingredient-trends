@@ -1,0 +1,14 @@
+﻿manual_aspect,manual_rows,detected_any_aspect,detected_manual_aspect,manual_aspect_recall
+application,2,2,1,0.5
+effectiveness,21,18,11,0.52
+absorption_finish,18,18,12,0.67
+formula_composition,13,13,9,0.69
+texture_consistency,13,13,9,0.69
+skin_tolerance,10,7,7,0.7
+cleansing_makeup_removal,6,6,5,0.83
+hydration_nourishment,20,20,19,0.95
+packaging,5,5,5,1.0
+scent,5,5,5,1.0
+efficiency,8,8,8,1.0
+pore_clogging,8,8,8,1.0
+price_value,9,9,9,1.0

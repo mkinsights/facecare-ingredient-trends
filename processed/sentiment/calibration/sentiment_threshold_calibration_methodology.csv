@@ -1,0 +1,7 @@
+﻿parameter,value
+optimization_metric,three-class macro F1
+optimization_dataset,manual development sample only
+threshold_grid_step,0.05
+held_out_sets,"initial, post-tuning, and stratified validation"
+selection_bias_note,stratified validation oversamples difficult model predictions
+population_prevalence,accuracy is diagnostic and not prevalence-weighted

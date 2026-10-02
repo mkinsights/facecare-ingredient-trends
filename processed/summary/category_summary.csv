@@ -1,0 +1,26 @@
+﻿category1,category2,summary_level,product_count,median_price,median_standardized_price_per_unit,avg_weighted_rating,median_opinions,median_ingredients_count,median_active_count,avg_active_share,median_active_position_score
+Pielęgnacja twarzy,SUMA,category1_total,1185,28.99,72.47,4.79,18.00,32.00,17.00,53.39,26.00
+Pielęgnacja twarzy,Kremy do twarzy,category2,416,37.99,83.98,4.80,22.50,38.00,20.00,52.94,29.00
+Pielęgnacja twarzy,Maseczki,category2,291,8.99,26.26,4.79,16.00,29.00,16.00,54.59,25.00
+Pielęgnacja twarzy,"Serum, boostery i esencje",category2,269,39.99,129.97,4.80,15.00,28.00,15.00,54.07,24.00
+Pielęgnacja twarzy,Kremy pod oczy,category2,89,36.99,226.60,4.77,23.00,34.00,18.00,58.77,29.00
+Pielęgnacja twarzy,Kosmetyki z SPF,category2,44,54.24,131.98,4.75,11.00,41.00,18.00,43.50,22.00
+Pielęgnacja twarzy,Preparaty punktowe,category2,39,14.99,0.94,4.71,41.00,12.00,5.00,42.75,11.00
+Pielęgnacja twarzy,Płatki pod oczy,category2,37,5.99,2.29,4.75,57.00,24.00,13.00,54.15,24.00
+Oczyszczanie i demakijaż twarzy,SUMA,category1_total,289,21.49,12.66,4.79,39.00,20.00,9.00,46.87,16.00
+Oczyszczanie i demakijaż twarzy,Żele i pianki do mycia twarzy,category2,115,22.99,14.66,4.81,39.00,22.00,9.00,44.95,16.00
+Oczyszczanie i demakijaż twarzy,Płyny do demakijażu,category2,64,19.99,5.62,4.81,52.00,18.00,7.00,42.40,15.00
+Oczyszczanie i demakijaż twarzy,Oleje i masełka do demakijażu,category2,33,28.99,32.99,4.72,20.00,14.00,10.00,65.67,21.00
+Oczyszczanie i demakijaż twarzy,Peelingi do twarzy,category2,33,16.99,29.98,4.77,46.00,21.00,10.00,48.88,18.00
+Oczyszczanie i demakijaż twarzy,Chusteczki do demakijażu,category2,23,9.49,0.42,4.75,22.00,18.00,7.00,35.57,13.00
+Oczyszczanie i demakijaż twarzy,Mleczka i emulsje do demakijażu,category2,21,23.49,8.99,4.81,36.00,24.00,13.00,50.64,22.00
+Pielęgnacja ust,SUMA,category1_total,232,17.99,291.46,4.76,11.00,23.00,12.00,53.52,23.00
+Pielęgnacja ust,Balsamy i pomadki do ust,category2,142,14.49,278.65,4.77,22.00,21.00,12.00,58.30,24.00
+Pielęgnacja ust,Serum i olejki do ust,category2,63,29.99,499.86,4.76,4.00,24.00,10.00,42.34,16.00
+Pielęgnacja ust,Maseczki na usta,category2,23,24.99,199.93,4.74,10.00,33.00,16.00,53.79,25.00
+Pielęgnacja ust,Peelingi do ust,category2,4,21.49,297.77,4.77,1.00,21.00,11.50,58.47,21.50
+Tonizowanie twarzy,SUMA,category1_total,98,28.99,19.16,4.80,20.50,20.00,9.00,52.07,20.00
+Tonizowanie twarzy,Toniki do twarzy,category2,81,28.99,15.66,4.80,30.00,21.00,10.00,52.25,20.00
+Tonizowanie twarzy,Esencje i hydrolaty do twarzy,category2,17,29.99,29.99,4.79,12.00,12.00,7.00,51.25,15.00
+Depilacja twarzy,SUMA,category1_total,10,10.99,0.80,4.64,29.00,13.50,5.00,35.77,11.50
+Depilacja twarzy,Plastry i kremy do depilacji,category2,10,10.99,0.80,4.64,29.00,13.50,5.00,35.77,11.50

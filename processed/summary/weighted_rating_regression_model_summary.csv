@@ -1,0 +1,4 @@
+﻿model,outcome,n_obs,n_parameters,residual_df,r_squared,adjusted_r_squared,aic,bic,predictor_count,ingredient_flag_count,delta_adjusted_r_squared
+base,weighted_rating,1814,96,1718,0.21,0.17,-4199.64,-3671.33,1,0,
+formula,weighted_rating,1814,103,1711,0.22,0.18,-4209.27,-3642.43,8,0,0.01
+ingredient,weighted_rating,1814,114,1700,0.23,0.18,-4195.37,-3568.00,19,11,-0.00

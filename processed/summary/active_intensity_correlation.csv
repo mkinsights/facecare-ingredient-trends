@@ -1,0 +1,7 @@
+﻿,weighted_rating,log_opinions,log_standardized_price,active_count,active_share,active_position_score
+weighted_rating,1.00,0.29,-0.03,0.04,-0.04,0.04
+log_opinions,0.29,1.00,-0.25,-0.10,-0.08,-0.06
+log_standardized_price,-0.03,-0.25,1.00,0.26,0.15,0.25
+active_count,0.04,-0.10,0.26,1.00,0.57,0.96
+active_share,-0.04,-0.08,0.15,0.57,1.00,0.65
+active_position_score,0.04,-0.06,0.25,0.96,0.65,1.00
