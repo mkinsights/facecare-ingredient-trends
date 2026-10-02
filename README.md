@@ -1,4 +1,4 @@
-# Skład kosmetyków i opinie
+# Skład INCI a opinie konsumenckie o kosmetykach do pielęgnacji twarzy: analiza wydźwięku
 
 Repozytorium zawiera kod i dane użyte w pracy magisterskiej. Analiza łączy składy INCI kosmetyków do pielęgnacji twarzy z ocenami i tekstami opinii.
 
